@@ -30,7 +30,7 @@ Said to have been grown from a seed of the world tree by the first halflings to 
 **_AKA The Adendian Crater_**  
 A massive canyon of fear and oblivion where the city state of Adendia once stood before it mysteriously disappeared at the start of [[The Shattering]].
 It is surrounded by a series of pillars covered in inscriptions creating a barrier that prevents anything from coming out of the Hole. The barrier is permeable the other way, although passing through causes serious injury.
-Visited [[08-09-2025]].
+Visited [[2025-08-09]].
 ## The Big "Manhattan"
 **_AKA Thanmatan, the sundered metropolis_**  
 An island off the coast of Batel that was once a sprawling cityscape that was glassed in an instant as the magical batteries keeping it alive detonated at the start of The Shattering.

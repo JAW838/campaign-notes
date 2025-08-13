@@ -1,2 +1,2 @@
-- Introduced [[08-09-2025]].
+- Introduced [[2025-08-09]].
 - Fast friends with [[Ondo]].

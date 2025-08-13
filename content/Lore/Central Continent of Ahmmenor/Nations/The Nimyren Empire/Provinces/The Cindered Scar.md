@@ -1,0 +1,1 @@
+Only a province to itself as no old Kingdom wished to claim it, these lands were scorched & corrupted by a strange artifact around 400 years ago.

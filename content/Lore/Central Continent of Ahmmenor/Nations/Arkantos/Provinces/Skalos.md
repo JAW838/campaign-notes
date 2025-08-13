@@ -1,0 +1,5 @@
+The southernmost province embodies the ideal “No People Forgotten” & is ruled by the [[King Vysar Beldranas of Skalos|King Vysar Beldranas]], whom despite his name of significance is believed to have gained right to the throne through illegitimate means. The people here come from all walks, flys, swims, climbs, jumps, & burrows of life.
+
+# Capital City (Kavyris)
+Nestled deep within the region of Mistgarden & along the interior shores of the Dragons Gullet, its imposing walls make it one of the better guarded cities on the continent. The City has 5 Protectors known as [[The Fangs]] who protect the city and serve its military.
+The city's walls also serve to divide the city based on class with the upperclassmen living closer to the city center & [[King Vysar Beldranas of Skalos|King Vysar Beldranas]] living in a castle that overlooks the rest of the city as well as the Dragon's Gullet.

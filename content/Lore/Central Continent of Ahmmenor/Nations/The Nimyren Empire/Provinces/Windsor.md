@@ -1,0 +1,1 @@
+Inhabiting the southwestern corner of the Nimyren Empire and southernmost of the 3 greater provinces, this land was formed From the united human lands which remained from after the Great War.

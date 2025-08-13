@@ -1,0 +1,2 @@
+- Gnomish alchemist.
+- Allied with [[Enemy Group]].

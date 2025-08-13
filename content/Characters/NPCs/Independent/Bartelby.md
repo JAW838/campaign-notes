@@ -1,0 +1,2 @@
+- Gnome companion who used to work for [[Enemy Group]]/turncoat.
+- Works with the party now.

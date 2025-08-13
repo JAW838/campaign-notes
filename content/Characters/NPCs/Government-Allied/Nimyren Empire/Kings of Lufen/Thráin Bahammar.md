@@ -1,0 +1,2 @@
+One of the 5 Kings of [[Lufen]], King of [[Lufen#Major Cities#Arulain|Arulain]] and Bearer of the Opulent Crown.
+Thráin is the most ostentatious and ambitious of the kings and has close ties to Kybern Dassior of the Elvish High Council. He is also rumored to suffer from Dragon Sickness, though these claims are as of yet unsupported.

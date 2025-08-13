@@ -1,0 +1,2 @@
+- Shadar-Kai from the Shadowfell.
+- Follower of the [[Raven Queen]].

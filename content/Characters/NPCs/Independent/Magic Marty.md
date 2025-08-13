@@ -1,0 +1,1 @@
+A recurring NPC who shows up all around the world. His shop, Magic Marty's Magic Mart, sells discount magic items with potentially harmful or otherwise unhelpful side effects.

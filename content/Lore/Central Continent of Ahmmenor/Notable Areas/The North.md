@@ -1,0 +1,1 @@
+An area of land north of [[The Nimyren Empire]], bordering its northernmost province of [[Lufen]] and separated from it by [[Lufen#The Wall|The Wall]].

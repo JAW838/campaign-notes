@@ -1,0 +1,8 @@
+- yuan-ti snake man
+- high ranking official in [[The Nimyren Empire]]'s military.
+- hails from the nation [[Sorabor]] used to be, before it was conquered. He disliked how it was run, and quite likes how the Empire is run.
+- interest in plants/poison + runes on arms for blood magic (makes him an alchemist)
+- interested in magical research
+- communicated with [[Paraceleus]]
+- generally cooperative except that one time where he sold out [[Diabel]]'s location to [[Paraceleus]]
+- was a prisoner of war for a month-ish in the same prison as [[Corvel]] and [[Leon]]'s brother

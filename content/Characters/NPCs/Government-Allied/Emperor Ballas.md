@@ -1,0 +1,3 @@
+- The Emperor of [[The Nimyren Empire]].
+- United the warring factions in the region 246 years ago and was granted the role of Emperor as a result, which he holds to this day.
+- Probably an elf.

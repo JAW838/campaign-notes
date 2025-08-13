@@ -1,0 +1,1 @@
+Off the map to the west, covering the west coast of [[Ahmmenor]], and likely related to [[The Shattered Coast of Drisalygg]], together they suffered the most damage from [[The Shattering]].

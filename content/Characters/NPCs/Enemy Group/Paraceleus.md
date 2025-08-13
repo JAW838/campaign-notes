@@ -1,0 +1,3 @@
+- Pallid Elf with white hair, glowing eyes, a blue cloak, and a gauntlet with a large black gem inlaid.
+- Stole [[Corvel]]'s scythe [[Corvel#Threadcleaver|Threadcleaver]], which was gifted to him by the Raven Queen when he entered her service. Has had it for ~200 years.
+- Holds a position with [[Enemy Group]], stealing magic items for them.

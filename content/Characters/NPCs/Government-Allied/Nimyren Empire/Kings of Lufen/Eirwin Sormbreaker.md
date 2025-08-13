@@ -1,0 +1,2 @@
+One of the 5 Kings of [[Lufen]], King of [[Lufen#Major Cities#Winterhome|Winterhome]]. The Crownless King.
+Eirwin is an incredibly serious ruler, never seen without his suit of Iceflex armor or his battleax “Winters Howl ''.  

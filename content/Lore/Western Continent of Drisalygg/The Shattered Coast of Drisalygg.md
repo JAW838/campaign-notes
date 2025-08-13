@@ -1,0 +1,1 @@
+An area covering the eastern coast of Drisalygg. Likely related to [[The Shattered Coast of Ahmmenor]], together they were damaged the most by [[The Shattering]].

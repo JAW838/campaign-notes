@@ -1,0 +1,2 @@
+- King of the province of [[Skalos]].
+- Believed to have gained the throne through illegitimate means.

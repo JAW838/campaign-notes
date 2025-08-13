@@ -1,0 +1,2 @@
+- King of the province of [[Dunata]].
+- Won her crown with her mastery over powerful magics.

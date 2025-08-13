@@ -1,0 +1,1 @@
+The secluded island province embodies the ideal “No Magic Forbidden” & is ruled by [[King Vaisan Gyunn of Dunata|King Vaisan Gyunn]] who won her crown, like those before her, with her mastery over powerful magics. Most of this Provinces citizens are arcane practitioners & those without any magical talent are virtually non existent.

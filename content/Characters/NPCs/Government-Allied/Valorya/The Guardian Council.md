@@ -1,0 +1,1 @@
+The rulers of [[Valorya]], it is composed of a group of wizards.

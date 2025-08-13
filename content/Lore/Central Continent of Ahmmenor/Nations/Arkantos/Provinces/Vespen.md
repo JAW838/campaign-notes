@@ -1,0 +1,1 @@
+This frigid northern province, shielded by vast mountain ranges, embodies the ideal “No Gods Forsaken '' & Has been overseen by the enigmatic [[King Kelerak of Vespen|King Kelerak]] since the nation's inception. The worship of no god is barred here & much of the populous are people of strange worship.

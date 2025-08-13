@@ -1,0 +1,1 @@
+- Dangerous and shrouded in mystery, this continent was most affected by [[The Shattering]], including the formation of [[The Shattered Coast of Drisalygg]].

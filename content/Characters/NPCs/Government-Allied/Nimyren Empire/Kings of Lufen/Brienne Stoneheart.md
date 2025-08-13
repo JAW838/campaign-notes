@@ -1,0 +1,2 @@
+One of the 5 Kings of [[Lufen]], Queen of [[Lufen#Major Cities#Runestone|Runestone]] and Bearer of the Crown of Stones.
+A relatively young ruler who generally disapproves of the decadence of her predecessors, putting a focus on the mountain's defense & development of further runic magics alongside the wellbeing of her people.

@@ -9,7 +9,7 @@ This is the home of our campaign notes, built with [Quartz](https://quartz.jzhao
 - 🗒 Browse the **[Notes](notes)** for session logs, lore, and characters  
 - 🗺 Explore the **[World Map](world-map)** for locations and regions  
 - 🎭 Meet the **[Cast](cast)** of heroes and villains
-- [hey](Batel#The 7 Wonders#The Big Tower)
+- [[Batel#The Big Tower|hey]]
 
 ---
 

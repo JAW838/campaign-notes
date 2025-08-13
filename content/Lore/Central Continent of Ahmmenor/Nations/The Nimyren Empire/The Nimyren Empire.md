@@ -1,6 +1,8 @@
 # Basic History
-When [[the Inquisition]] collapsed & at long last the hidden kingdoms of Elves & Dwarves Emerged again onto the world full scale. However when they emerged they found their lands inhabited by a vast nation of Humanity that had taken root in their ruins. It was not long till conflict arose & centuries of war with little bitter peace ravaged this region of Ahmmenor. But 246 years ago, when tensions had risen to their highest point, the Leaders of the 3 Prominent Factions were approached by a strange figure who convinced them to set aside their differences & Unite for the common good. In their gratitude the 3 Leaders granted this stranger the title of [[Emperor Ballas|Emperor]] which he holds to this day.
-Recently acquired the province of [[Sorabor]] after a short and brutal war of conquest.
+## Formation of the Empire
+After [[The Shattering]], fear of the power of magic fueled an [[The Inquisition|Inquisition]] to destroy all knowledge of magic, which was largely successful. This drove many people to flee to places like [[Arkantos]]. After the fighting ended, the Kingdoms of Dwarves and Elves emerged from the woodwork to find their lands inhabited by a nation of Humans. Peace after this was short and collapsed into [[The Nimyren War]], a war for control of the land between the Dwarves, Elves and Humans.
+## Conquest of Sorabor
+Sometime in the last decade, the nation that previously inhabited the lands of [[Sorabor]] decided to go to war with the Empire. This war was short and sweet, if sweet means bloody and ruthless. It ended with the Empire gaining control of the land and forming the Empire's fifth province of [[Sorabor]].
 # Demographics
 The Empire is inhabited primarily by Dwarves, Elves and Humans.
 ![[image3.png]]

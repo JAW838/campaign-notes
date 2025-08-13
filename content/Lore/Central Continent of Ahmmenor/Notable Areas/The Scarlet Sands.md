@@ -1,1 +1,4 @@
-A region west of the [[The Nimyren Empire]].
+- A region west of the [[The Nimyren Empire]].
+- Suspected to be red because of the blood of the gods after [[The Dawn War]].
+- Weird giant outcroppings of iron. Origin unknown.
+- Frequent violent storms.

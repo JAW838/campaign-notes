@@ -1,0 +1,3 @@
+- Super distant past.
+- War between many different entities in DND's assorted cosmology.
+- The blood of those killed in this conflict are said to colour [[The Scarlet Sands]].

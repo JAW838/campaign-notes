@@ -1,0 +1,2 @@
+- Period of time after [[The Dawn War]] but before [[The Shattering]] where [[the world]] was frozen over, covered in ice.
+- The ending of this time began a Great Spring, reportedly a time of great prosperity.

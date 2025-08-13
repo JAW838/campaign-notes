@@ -4,6 +4,6 @@
 - Follower of the [[Raven Queen]].
 - Favored weapon is a longsword.
 - Reen is more of a lofty and curious background character that can restrain [[Leon]] when needed.
-- Sometimes connects with things on a deeper level and can see its past.
+- Sometimes connects with things on a deeper level and can see their past.
 # Astral
-Reen's signature weapon is a silver longsword that has been with her for over 200 years, given to her by a fellow human [[Monster Hunters|Monster Hunter]].
+Reen's signature weapon is Astral, a silver longsword that has been with her for over 200 years, given to her by a fellow human [[Monster Hunters|Monster Hunter]].

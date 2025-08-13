@@ -6,10 +6,10 @@ title: Home
 
 This is the home of our campaign notes, built with [Quartz](https://quartz.jzhao.xyz/).
 
-- 🗒 Browse the **[Notes](notes)** for session logs, lore, and characters  
-- 🗺 Explore the **[World Map](world-map)** for locations and regions  
-- 🎭 Meet the **[Cast](cast)** of heroes and villains
-
+- Explore the **[[The World]]** for fun lore.
+- Take a look at **[[Enemy Group]]** to see what we're up against.
+- Check out **[[Player Party]]** to learn about your teammates.
+- Browse the latest **[[2025-08-09|Session Notes]]** to catch up on current events. 
 ---
 
-> _“Not all who wander are lost… but in this campaign, some definitely are.”_
+> _“Not all who wander are lost… but we are. We are definitely lost.”_

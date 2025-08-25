@@ -1,3 +1,3 @@
 - Gestalt is not the name of this character (title?)
 - Is doing reckless experiments in [[Batel#The Big Tower|The Big Tower]].
-- Works for [[Enemy Group]].
+- Works for [[Tech Hunters]].

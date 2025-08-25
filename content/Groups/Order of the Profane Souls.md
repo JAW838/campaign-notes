@@ -1,2 +1,2 @@
 # Known Members
-- [[Reen Voidswift]]
+- [[Reen Voidswift]] (Formerly)

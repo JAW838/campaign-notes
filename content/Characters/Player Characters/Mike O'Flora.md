@@ -1,1 +1,2 @@
 - Is a confusing mix of undead and plant.
+- Ran an apothecary in the middle of a swamp in [[Arkantos]] and is in the [[Gardening Club]].

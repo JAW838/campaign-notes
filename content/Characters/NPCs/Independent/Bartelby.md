@@ -1,2 +1,3 @@
-- Gnome companion who used to work for [[Enemy Group]]/turncoat.
+- Gnome companion who used to work for [[Tech Hunters]]/turncoat.
 - Works with the party now.
+- Has a bunch of magic items. Nobody knows why.

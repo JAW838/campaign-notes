@@ -18,13 +18,14 @@ Said to have been grown from a seed of the world tree by the first halflings to 
 ## The Big Tower
 **_AKA The Eye of Vome_**  
 - Ruined observatory located atop a mountain in the middle of a forest.
-- Supposed to be abandoned, but about a decade ago [[Enemy Group]] occupied it and began using it as a base of operations and a research station.
 - Lots of old magical research equipment was left behind.
-- Location is highly magical and magically related to the stars.
+- Location is built on an intersection of two ley lines, allowing it to cast magic easily.
+- Used to research the cosmos and planets.
+- A large dungeon network extends under the observatory (why?)
+- Supposed to be abandoned, but about a decade ago [[Tech Hunters]] occupied it and began using it as a base of operations and a research station.
 - Accessing the observatory from the ground is dangerous, so the group has teleportation circles inside, as well as delivers large cargo via flying vehicle.
 - Highly guarded with lots of traps.
 - Kobolds are/were imprisoned here (experimented on?)
-- A large dungeon network extends under the observatory (why?)
 - There is a secret entrance into the tower from the base of the north face of the mountain.
 ## The Big Hole
 **_AKA The Adendian Crater_**  

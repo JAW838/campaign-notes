@@ -8,3 +8,5 @@
 - [[Paraceleus]]
 - [[Theofrastus Bombastus]]
 - [[Bartelby]] (formerly)
+# Units
+- Minions that can teleport as a bonus action, attack as a reaction, have an ability that denies healing

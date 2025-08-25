@@ -1,2 +1,2 @@
 - Gnomish alchemist.
-- Allied with [[Enemy Group]].
+- Allied with [[Tech Hunters]].

@@ -1,0 +1,2 @@
+- Fortune teller
+- All fortunes told by her have been extremely accurate and have come to pass.

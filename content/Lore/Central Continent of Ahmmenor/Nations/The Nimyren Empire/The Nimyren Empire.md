@@ -5,4 +5,4 @@ After [[The Shattering]], fear of the power of magic fueled an [[The Inquisition
 Sometime in the last decade, the nation that previously inhabited the lands of [[Sorabor]] decided to go to war with the Empire. This war was short and sweet, if sweet means bloody and ruthless. It ended with the Empire gaining control of the land and forming the Empire's fifth province of [[Sorabor]].
 # Demographics
 The Empire is inhabited primarily by Dwarves, Elves and Humans.
-![[image3.png]]
+![[image3.png]]![[nimyren empire flag.png]]

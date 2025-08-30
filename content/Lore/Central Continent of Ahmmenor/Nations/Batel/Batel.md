@@ -34,6 +34,6 @@ It is surrounded by a series of pillars covered in inscriptions creating a barri
 Visited [[2025-08-09]].
 ## The Big "Manhattan"
 **_AKA Thanmatan, the sundered metropolis_**  
-An island off the coast of Batel that was once a sprawling cityscape that was glassed in an instant as the magical batteries keeping it alive detonated at the start of The Shattering.
+An island off the east coast that was once a sprawling cityscape. It was glassed in an instant as the magical batteries keeping it alive detonated at the start of The Shattering. Many expeditions have been performed to explore the area, and a few decades ago, the [[Tech Hunters]] performed the 16th.
 
 ![[image7.png]]

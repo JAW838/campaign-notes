@@ -1,15 +1,14 @@
-- A shadow organisation which has been around for some time (exact timeline unknown).
-- Have operated out of [[Batel#The Big Tower|The Big Tower]] for ~10 years.
-- Conducted "archeological exploits" (occupied) at [[Batel#The Big "Manhattan"|The Big "Manhattan"]] and [[Khanum]]. At both locations, all staff manifests were missing and any recovered documents were signed by a representative called "D".
-- Recovered documents include permission and funding forms from the [[Batel#The Big School|Kobalt Academy]] and "some government approval board".
-- Motives unknown.
-- Size unknown.
-- Actual name unknown.
+# Basic Rundown
+A group of unknown origin, size, or motive, the Tech Hunters are a group with a checkered past longer than most lifespans. They are known for investigating archaeological sites, performing exploration, research, and collecting artifacts with both government and private funds. The true leader of the group is still unknown.
+# History
+## Pre-Campaign
+Recovered documents reveal that ~100 years ago, the Hunters investigated an unknown location called [[Khanum]]. Additionally, a few decades ago, they performed the 16th expedition to [[Batel#The Big "Manhattan"|The Big "Manhattan"]]. The documents do not reveal the length of these investigations, and any staff manifests are missing, but they are all signed by a representative called "D". Funding for these expeditions was provided by a combination of the [[Batel#The Big School|Kobalt Academy]] and "some government approval board". Large sections of these documents are missing, and additional information is lacking.
+## Now
+The Tech Hunter's earliest known involvement with the [[Player Party]] is when they struck a deal with [[Silus]], in which they would provide pieces of their research to him in exchange for [[Diabel]]. They were successful in capturing him, and presumably followed through on their deal.
+The group has operated out of [[Batel#The Big Tower|The Big Tower]] for ~10 years, and their actions there likely align with the research they performed during previous expeditions. They have guarded the location with a large number of fiends, and have moved much materiel into the base via skyship.
 # Known Members
 - [[Gideon]]
 - [[Gestalt]]
 - [[Paraceleus]]
 - [[Theofrastus Bombastus]]
 - [[Bartelby]] (formerly)
-# Units
-- Minions that can teleport as a bonus action, attack as a reaction, have an ability that denies healing

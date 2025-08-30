@@ -1,1 +1,1 @@
-A location the [[Tech Hunters]] performed an "archeological exploit" at.
+A location where the [[Tech Hunters]] performed archaeological research ~100 years ago.

@@ -1,2 +1,3 @@
 - Is a confusing mix of undead and plant.
 - Ran an apothecary in the middle of a swamp in [[Arkantos]] and is in the [[Gardening Club]].
+- Has three minions: Millhouse, Fishbones and Chanterelle. He constructed Chanterelle from bits and bobs he gathered during his adventures with the party.

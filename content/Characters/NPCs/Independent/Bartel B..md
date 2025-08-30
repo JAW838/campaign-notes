@@ -1,0 +1,7 @@
+- Gnome companion who used to work for [[Tech Hunters]]/turncoat.
+- Works with the party now.
+- Day job is performing deliveries for [[Griffon's Saddlebag]].
+- Has a bunch of magic items. Nobody knows why.
+- Has beret that turns him invisible, sword, and magic paints
+- Father is still alive.
+- has wife and three children, they live in Batel.

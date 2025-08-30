@@ -1,5 +1,7 @@
 Ruler: [[President Les McEuen]] ¯\_(ಠ_ಠ)_/¯  
-They elected him as a bit & turns out he’s really great at this stuff, been in office ever since (is williams character from Colby’s old campaign)  
+They elected him as a bit & turns out he’s really great at this stuff, been in office ever since (is williams character from Colby’s old campaign)
+
+Provides free healthcare and dental to residents.
   
 Halfling: Middle Class Politicians  
 Dwarf: Skill Based Matchmaking  
@@ -24,7 +26,7 @@ Said to have been grown from a seed of the world tree by the first halflings to 
 - A large dungeon network extends under the observatory (why?)
 - Supposed to be abandoned, but about a decade ago [[Tech Hunters]] occupied it and began using it as a base of operations and a research station.
 - Accessing the observatory from the ground is dangerous, so the group has teleportation circles inside, as well as delivers large cargo via flying vehicle.
-- Highly guarded with lots of traps.
+- Highly guarded with lots of traps and devils.
 - Kobolds are/were imprisoned here (experimented on?)
 - There is a secret entrance into the tower from the base of the north face of the mountain.
 ## The Big Hole

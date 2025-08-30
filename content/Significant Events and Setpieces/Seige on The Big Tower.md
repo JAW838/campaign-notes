@@ -1,0 +1,1 @@
+- The [[Player Party]] stealthily approached the tower on their [[Player Party#Slepneres|Slepneres]] but they were unable to avoid conflict with the various fiends surrounding the mountain.

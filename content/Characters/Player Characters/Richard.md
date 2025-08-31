@@ -4,6 +4,7 @@
 - Went on a [[The Nimyren Empire|Nimyren Empire]] military expedition to some snowy mountains after [[Richard#Uncle Phil|Uncle Phil]] had his episode and got lost in a cave for so long he doesn't know how old he is
 - At least 100 years old
 # Fucked Family Tree
+The following format is (relation, name). Tedmund and Tedfrey are not part of a church (afaik).
 ## Mother's Side
 
 ### Grandfather Tedster
@@ -16,10 +17,8 @@
 ### Great Grandfather Tedginald
 - Tedgie for short
 ### Grandmother Theodora
-- Father's side
 ### Grandfather Tedward
-### Tedmund
-- Father
+### Father Tedmund
 ### Aunt Tedalyn
 - had a tower made of marble once (they called it Ivory Tower because they thought it was ivory). it was lost while gambling
 ### Cousin Ted
@@ -32,5 +31,4 @@
 - eloped with a celestial.
 - always said: "caves are were the heart lies. mainly for witches. so always check the caves."
 ## Other Relatives
-### Tedfrey
-- Brother
+### Brother Tedfrey

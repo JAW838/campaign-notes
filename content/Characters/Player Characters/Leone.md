@@ -1,0 +1,1 @@
+Originally from a far-away land called Toronto, he was struck by a self-propelled carriage and awoke somewhere in [[Ahmmenor]]. Some time after this, he joined the [[Player Party]] in their adventures.

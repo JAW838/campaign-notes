@@ -1,0 +1,2 @@
+The heir to [[Gulfen#The Alabaster Throne|The Alabaster Throne]] and successor to the [[Erlking]], the Second Elven King Neurodorin ruled through [[The World#The War of Divine Egress|The War of Divine Egress]] and beyond. He directed his high mages to repair what damages they could, including sealing planar rifts and binding or slaying many Great Beasts of Myth. These acts created a safer world for future generations.
+What ultimately caused his untimely death is lost to history, although foul play could never be entirely ruled out.

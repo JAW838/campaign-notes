@@ -5,7 +5,7 @@ title: Home
 
 This is the home of our campaign notes, built with [Quartz](https://quartz.jzhao.xyz/).
 
-- Explore the **[[The World]]** for fun lore.
+- Explore the **[[The World]]** for fun lore. **(UPDATED WITH NEW TIMELINE)**
 - Take a look at **[[Tech Hunters]]** to see what we're up against.
 - Check out **[[Player Party]]** to learn about your teammates.
 - Browse the latest **[[2025-08-30|Session Notes]]** to catch up on current events.

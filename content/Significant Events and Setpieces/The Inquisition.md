@@ -3,6 +3,6 @@ Magic was stable before [[The Shattering]], but its chaos disrupted its stabilit
 # The Campaign
 Fighting commenced across what is now [[The Nimyren Empire]], driving refugees out, toward places like [[Arkantos]]. Large swaths of magical knowledge was successfully destroyed by the Inquisition during the fighting.
 # The End
-The fighting and fervor eventually burned itself, leading to the collapse of the Inquisition.
+The fighting and fervor eventually burned itself out, leading to the collapse of the Inquisition.
 # Effects of The Inquisition
 Most magical knowledge was permanently destroyed. Death toll is unknown.

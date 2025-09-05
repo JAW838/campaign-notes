@@ -1,2 +1,2 @@
 # Basic History
-Over the centuries a great deal of Ahmmenor’s magically inclined citizens have migrated to the eastern coast of the continent, weather it was to evade the destruction of [[The Shattering]] or the wrath of [[The Inquisition]], where they allied themselves with the dragonic residents of the realm & eventually came to form the country as well as its 3 main Ideals.![[image2.png]]
+Over the centuries a great deal of [[Ahmmenor]]’s magically inclined citizens have migrated to the eastern coast of the continent, weather it was to evade the destruction of [[The Shattering]] or the wrath of [[The Inquisition]], where they allied themselves with the dragonic residents of the realm & eventually came to form the country as well as its 3 main Ideals.![[image2.png]]

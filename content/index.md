@@ -8,7 +8,7 @@ This is the home of our campaign notes, built with [Quartz](https://quartz.jzhao
 - Explore the **[[The World]]** for fun lore. **(UPDATED WITH NEW TIMELINE)**
 - Take a look at **[[Tech Hunters]]** to see what we're up against.
 - Check out **[[Player Party]]** to learn about your teammates.
-- Browse the latest **[[2025-08-30|Session Notes]]** to catch up on current events.
+- Browse the latest **[[2025-09-06|Session Notes]]** to catch up on current events.
 ---
 
-> _“Not all who wander are lost… but we are. We are definitely lost.”_
+> _“Challenging pregnant god since 1977.”_

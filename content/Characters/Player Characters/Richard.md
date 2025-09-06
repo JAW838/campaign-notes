@@ -3,6 +3,7 @@
 - Goliath
 - Went on a [[The Nimyren Empire|Nimyren Empire]] military expedition to some snowy mountains after [[Richard#Uncle Phil|Uncle Phil]] had his episode and got lost in a cave for so long he doesn't know how old he is
 - At least 100 years old
+- Writes "Ted Poems" in his spare time.
 # Fucked Family Tree
 The following format is (relation, name). Tedmund and Tedfrey are not part of a church (afaik).
 ## Mother's Side
@@ -16,6 +17,7 @@ The following format is (relation, name). Tedmund and Tedfrey are not part of a 
 ### Great Great Great Grandfather Ted
 ### Great Grandfather Tedginald
 - Tedgie for short
+- forged spears from iron sand
 ### Grandmother Theodora
 ### Grandfather Tedward
 ### Father Tedmund

@@ -1,7 +1,7 @@
 An apocalyptic failure of the weave of magic which destroyed many parts of the world, The Shattering marks the end of the [[The World#The Age of Hubris (15,000-17,500)|The Age of Hubris]] and the reign of [[Belodrin|King Belodrin the Baned]]. The title applies not only to the moment the weave broke, but the 1000+ year period during which it was broken. [[Drisalygg]] was most affected, [[Feyrndel]] was least affected, and the central continent [[Ahmmenor]] was somewhere between the two.
 # Cause
 The primary cause of this disaster is unknown. However there are several theories:
-- Punishment from the gods
+- Punishment from the gods. If this is the case, it is likely because the Raven Queen, a mortal, overthrew a god and took their place.
 - A foolish mage attempted a magic too outlandishly vast for the weave to strain
 - The pressure of all the magics of the world had become too much
 # Effects of the Shattering

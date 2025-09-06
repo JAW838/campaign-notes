@@ -1,7 +1,7 @@
 Ruler: [[President Les McEuen]] ¯\_(ಠ_ಠ)_/¯  
-They elected him as a bit & turns out he’s really great at this stuff, been in office ever since (is williams character from Colby’s old campaign)
+They elected him as a bit & turns out he’s really great at this stuff, been in office ever since
 
-Provides free healthcare and dental to residents.
+Provides free healthcare and dental to residents. Big technological power and inhabited primarily by elves pre-[[The Shattering]].
   
 Halfling: Middle Class Politicians  
 Dwarf: Skill Based Matchmaking  
@@ -19,7 +19,7 @@ A massive perpetual stew maintained by the goblins of this land since before the
 Said to have been grown from a seed of the world tree by the first halflings to settle this land.
 ## The Big Tower
 **_AKA The Eye of Vome_**  
-- Ruined observatory located atop a mountain in the middle of a forest.
+- Ruined elven observatory located atop a mountain in the middle of a forest.
 - Lots of old magical research equipment was left behind.
 - Location is built on an intersection of two ley lines, allowing it to cast magic easily.
 - Used to research the cosmos and planets.
@@ -29,6 +29,14 @@ Said to have been grown from a seed of the world tree by the first halflings to 
 - Highly guarded with lots of traps and devils.
 - Kobolds are/were imprisoned here (experimented on?)
 - There is a secret entrance into the tower from the base of the north face of the mountain.
+- Many ghost elves inhabit the underground caves. Something pushed the elves there into the ethereal plane, turning them into ghosts.
+- Failing wisdom checks in the tunnels seems to make you fade away? Six phases, one for each failure.
+1. Seemingly nothing happens at this level.
+2. Disadvantage on perception checks, .
+3. advantage on stealth checks
+4. You can see the ghosts (see into the ethereal plane)
+5. All of your attacks to half damage.
+6. You are pushed into the ethereal plane and trapped in the catacombs, effectively killing the character.
 ## The Big Hole
 **_AKA The Adendian Crater_**  
 A massive canyon of fear and oblivion where the city state of Adendia once stood before it mysteriously disappeared at the start of [[The Shattering]].

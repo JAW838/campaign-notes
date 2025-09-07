@@ -5,4 +5,4 @@
 - interested in magical research
 - communicated with [[Paraceleus]]
 - generally cooperative except that one time where he sold out [[Diabel]]'s location to [[Paraceleus]] for pieces of their research
-- was a prisoner of war for a month-ish in the same prison as [[Corvel]] and [[Leon]]'s brother
+- was a prisoner of war for a month-ish in the same prison as [[Corvel]] and [[Leon Redbrand]]'s brother

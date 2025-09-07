@@ -5,5 +5,5 @@ To enter the prison proper, some characters, including [[Player Party#Past Membe
 During the operation, many cells were opened to induce confusion and panic, disrupting guard activity.
 Near the end of the skirmish, [[Player Party#Past Members|Stephanie]] attempted to reason with a dragon guarding the prison, though this was unsuccessful.
 # Results
-- Many prisoners were rescued on stolen prison ships, including [[Corvel]], [[Sylas]], and [[Leon]]'s brother.
+- Many prisoners were rescued on stolen prison ships, including [[Corvel]], [[Sylas]], and [[Leon Redbrand]]'s brother.
 - The drowning of [[Player Party#Past Members|Stephanie]] in her attempted escape.

@@ -1,0 +1,4 @@
+- Citizen of [[The Nimyren Empire]].
+- Father was a high-ranking military official.
+- Cursed to look like a fox.
+- Has a brother named Theon who is in the military.

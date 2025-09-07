@@ -1,1 +1,0 @@
-Based on "Ocean Man" song, there's a cult out there that worships the Ocean Man.

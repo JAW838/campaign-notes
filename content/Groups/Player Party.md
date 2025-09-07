@@ -1,7 +1,7 @@
 # Characters
 ## Current Members
 - [[Corvel]]
-- [[Leon]]
+- [[Leon Redbrand]]
 - [[Mike O'Flora]]
 - [[Ondo]]
 - [[Reen Voidswift]]

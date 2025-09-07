@@ -1,2 +1,0 @@
-- Former pirate.
-- Entire previous crew is dead, except for his brother.

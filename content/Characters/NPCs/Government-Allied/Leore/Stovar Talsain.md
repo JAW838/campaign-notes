@@ -1,1 +1,6 @@
-An important member of both the [[Leore#The Noble Council|The Noble Council]] & [[Leore#The Trader's Guild|The Trader's Guild]], this Dwarf resides in the Fools Crossing and owns approximately 35% of the land in the nation. He is also the main funder of the land’s “Military”, whose function is mostly just to act as guards in settlements & provide added protection to trade caravans. Originally from [[Lufen#Arulain|Arulain]].
+- Important member of both the [[Leore#The Noble Council|The Noble Council]] & [[Leore#The Trader's Guild|The Trader's Guild]]
+- Dwarf 
+- Resides in the Fools Crossing 
+- Owns approximately 35% of the land in [[Leore]]
+- Main funder of the land’s “Military”, whose function is mostly just to act as guards in settlements & provide added protection to trade caravans.
+- Originally from [[Lufen#Arulain|Arulain]].

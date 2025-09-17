@@ -1,4 +1,4 @@
-The heir to [[Gulfen#The Alabaster Throne|The Alabaster Throne]], successor to [[Neurodorin]], the Third Elven King Belodrin "the Baned" is known for being driven by the fear of the curse of his throne. This fear led to the creation of "Rië Empatyellë", or "Only Advance". He succumbed to an illness during [[The Shattering]].
+The heir to [[Gulfen#The Alabaster Throne|The Alabaster Throne]], successor to [[Neurodorin]], the Third Elven King Belodrin "the Baned" ruled during [[The World#The Age of Hubris (15,000-17,500)|The Age of Hubris]] and is known for being driven by the fear of the curse of his throne. This fear led to the creation of "Rië Empatyellë", or "Only Advance". He succumbed to an illness during [[The Shattering]].
 # Rië Empatyellë
 Known also as "Only Advance", the effects of this were the establishment of many metropolises filled with wonderful magics.
 # Death

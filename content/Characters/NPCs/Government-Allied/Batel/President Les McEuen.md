@@ -1,2 +1,2 @@
-- President of Batel
+- President of [[Batel]].
 - Elected as a joke but has been quite successful in his role.

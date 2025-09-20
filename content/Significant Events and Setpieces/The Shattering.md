@@ -10,3 +10,4 @@ The primary cause of this disaster is unknown. However there are several theorie
 - Creation of [[Batel#The Big Hole|The Big Hole]], [[Batel#The Big Tower|The Big Tower]], and [[Batel#The Big "Manhattan"|The Big "Manhattan"]] in [[Batel]].
 - Formation of the [[The Shattered Coast of Ahmmenor]] and [[The Shattered Coast of Drisalygg]], together likely identifying the epicenter of The Shattering itself, lying somewhere in the body of water between the two.
 - Driving substantial amounts of people away from the mainland towards and forming the nation of [[Arkantos]].
+- Because magic was so weak, special kinds of technology were created which fused magic with tech. A modified form of this was used during [[2025-09-20]] by [[Kajal]] and was created by the [[Tech Hunters]].

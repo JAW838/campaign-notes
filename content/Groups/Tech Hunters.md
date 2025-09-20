@@ -3,9 +3,11 @@ A group of unknown origin, size, or motive, the Tech Hunters are a group with a 
 # History
 ## Pre-Campaign
 Recovered documents reveal that ~100 years ago, the Hunters investigated an unknown location called [[Khanum]]. Additionally, a few decades ago, they performed the 16th expedition to [[Batel#The Big "Manhattan"|The Big "Manhattan"]]. The documents do not reveal the length of these investigations, and any staff manifests are missing, but they are all signed by a representative called "D". Funding for these expeditions was provided by a combination of the [[Batel#The Big School|Kobalt Academy]] and "some government approval board". Large sections of these documents are missing, and additional information is lacking.
+The group also recovered or otherwise acquired lost mid-[[The Shattering|Shattering]] technology from [[Drisalygg]].
 ## Now
 The Tech Hunter's earliest known involvement with the [[Player Party]] is when they struck a deal with [[Sylas]], in which they would provide pieces of their research to him in exchange for [[Diabel]]. They were successful in capturing him, and presumably followed through on their deal.
-The group has operated out of [[Batel#The Big Tower|The Big Tower]] for ~10 years, and their actions there likely align with the research they performed during previous expeditions. They have guarded the location with a large number of devils, and have moved much materiel into the base via skyship.
+The group has operated out of [[Batel#The Big Tower|The Big Tower]] for ~10 years, and their actions there likely align with the research they performed during previous expeditions. They have guarded the location with a large number of fiends, and have moved much material into the base via skyship.
+In the catacombs of [[Batel#The Big Tower|The Big Tower]] they were experimenting with fusing mind-control technology into halflings, with a helmet with the power to control the modified halflings. All research was signed by [[Gestalt]].
 # Known Members
 - [[Gideon]]
 - [[Gestalt]]

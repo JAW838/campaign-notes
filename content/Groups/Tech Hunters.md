@@ -7,14 +7,15 @@ The group also recovered or otherwise acquired lost mid-[[The Shattering|Shatter
 ### Pre-Campaign Goals
 The goals of the Hunters at this time are unknown, however it can be guessed that they were looking for technology or magic to use in their later schemes.
 ## Early Campaign
-The Tech Hunter's earliest known involvement with the [[Player Party]] is when they struck a deal with [[Sylas]], in which they would provide pieces of their research to him in exchange for [[Diabel]]. They were successful in capturing him, and presumably followed through on their deal.
+The Tech Hunter's earliest known involvement with the [[Player Party]] is when they struck a deal with [[Sylas Blackstone]], in which they would provide pieces of their research to him in exchange for [[Diabel]]. They were successful in capturing him, and presumably followed through on their deal.
 ### Early Goals
 Why the Hunters wanted [[Diabel]] is unknown, as is the nature of the information they exchanged for him.
 ## Now
 The group has operated out of [[Batel#The Big Tower|The Big Tower]] for ~10 years, and their actions there likely align with the research they performed during previous expeditions. They guard the location with a large number of fiends, and have moved much material into the base via skyship.
-In the catacombs of [[Batel#The Big Tower|The Big Tower]] they were experimenting with fusing mind-control technology into halflings, with a helmet with the power to control the modified halflings. All research was signed by [[Gestalt]]. This technology was stolen by [[Kajal]] during the [[Seige on The Big Tower]].
+In the catacombs of [[Batel#The Big Tower|The Big Tower]] they were experimenting with fusing control technology into halflings, with a helmet with the power to control the modified halflings. All research was signed by [[Gestalt]]. This technology was stolen by [[Kajal]] during the [[Seige on The Big Tower]].
+The halfings were old experiments, with a new version appearing to be purely technological.
 ### Current Goals
-We know they are experimenting with fusing magic items with living beings to control them, however their ultimate goal with this power is still unknown. 
+At first they experimented with infusing halflings with technology in order to control them, and they have transitioned to building completely technological beings to control.
 # Known Members
 - [[Gideon]]
 - [[Gestalt]]

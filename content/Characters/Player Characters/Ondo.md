@@ -11,7 +11,7 @@ He came to a situation where he had to give up something legitimately important 
 # Tophat
 Mercury hat ????
 # Hat
-This is [[Sylas]]'s hat. He was allowed to take it in exchange for exiting his office.
+This is [[Sylas Blackstone]]'s hat. He was allowed to take it in exchange for exiting his office.
 # The Book
 Ondo was given a book by the gods or something to guide him on his journey. The book is currently in [[Corvel]]'s possession because Ondo literally cannot read it, even though it is basically in his job description to be able to read it.
 

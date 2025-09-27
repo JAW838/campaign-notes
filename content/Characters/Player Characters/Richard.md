@@ -24,6 +24,7 @@ The following format is (relation, name). Tedmund and Tedfrey are not part of a 
 ### Aunt Tedalyn
 - had a tower made of marble once (they called it Ivory Tower because they thought it was ivory). it was lost while gambling
 ### Cousin Ted
+- Hosted a talk show called 'Ted Talk' which lasted for 1.5 seasons: winter and spring
 ## Uncle Teddy
 - In his occult aboleth phase
 - Parents are very disappointed

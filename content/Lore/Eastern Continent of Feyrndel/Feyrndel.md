@@ -1,1 +1,1 @@
-- Least affected by [[The Shattering]], this largely desert covered continent remains more connected to the ways of the old world than the others. It’s also the homeland of everyone's favorite Golyn.
+- Least affected by [[The Shattering]], this largely desert covered continent remains more connected to the ways of the old world than the others. It’s also the homeland of everyone's favorite Golyn, [[Ondo]].

@@ -1,2 +1,2 @@
 - Bisecting the Nimyren Empire, it is the only province to touch both seas on the east and west coasts. It borders [[Gulfen]] and [[The Cindered Scar]] to the north and [[Windsor]] to the south.
-- This land was formed From the united human lands which remained from after the Great War.
+- This land was formed from the united human lands which remained from after [[The Nimyren War]].

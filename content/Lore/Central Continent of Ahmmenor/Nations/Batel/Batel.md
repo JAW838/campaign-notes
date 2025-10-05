@@ -39,8 +39,8 @@ Between the Lower Levels and the catacombs proper lay a floor containing several
 Spending too much time in the catacombs can have adverse affects on a creature (wis save). There are six levels to the curse:
 1. Seemingly nothing happens at this level.
 2. Disadvantage on perception checks.
-3. advantage on stealth checks
-4. The creature can see the ghosts (see into the ethereal plane)
+3. Advantage on stealth checks.
+4. The creature can see the ghosts (see into the ethereal plane).
 5. The creature's attacks to half damage.
 6. The creature is pushed into the ethereal plane and trapped in the catacombs, effectively killing them.
 ## The Big Hole

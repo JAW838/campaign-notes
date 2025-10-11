@@ -1,7 +1,7 @@
 - 400 year old Shadar-Kai from the Shadowfell.
 - Devout follower of the [[Raven Queen]].
 - Has an interest in history.
-- Favoured weapon is the scythe.
+- Favoured weapon is the scythe, which he cares for religiously. During the period he didn't have Threadcleaver, he transformed the used-and-abused scythes he acquired into pristine and well-kept tools.
 # Threadcleaver
 ## General
 Corvel's signature weapon, Threadcleaver is a scythe with a sharp obsidian stem and a raven-like skull apparatus connecting the blade to the stem. The blade protrudes from the skull like a beak and its eyes glow when the weapon flies about, attacking at the heed of its wielder.

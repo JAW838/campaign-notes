@@ -1,0 +1,1 @@
+Canon in all worlds, Ea-Nasir is a Fey Lord famous for selling shitty copper.

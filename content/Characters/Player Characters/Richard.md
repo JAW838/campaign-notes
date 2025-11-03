@@ -9,6 +9,7 @@ The following format is (relation, name). Tedmund and Tedfrey are not part of a 
 ## Mother's Side
 
 ### Grandfather Tedster
+- Grandfathered in "scateboarding"
 ### Grandmother Teda
 ### Uncle
 - Previously Uncle Teddy (lost his name to the fey).

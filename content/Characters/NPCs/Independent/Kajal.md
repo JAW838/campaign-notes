@@ -1,6 +1,7 @@
 - A hyperintelligent huge gorilla-man with an exposed brain and small hat.
 - The exposed brain was grafted on and is not his brain.
 - Replaced the parts of his brain that made him susceptible to syphilis and fear (frightened condition) with immune replacements.
+- Immune to chlamydia because he possesses koala DNA.
 - Has a magic item that gives him 15ft true sight.
 - [[Ondo]]'s arch-nemesis and wants badly to kill him.
 # Events

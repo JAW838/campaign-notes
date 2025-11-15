@@ -2,7 +2,6 @@
 ## Current Members
 - [[Corvel]]
 - [[Leon Redbrand]]
-- [[Mike O'Flora]]
 - [[Ondo]]
 - [[Reen Voidswift]]
 - [[Richard]]
@@ -10,8 +9,9 @@
 - [[Diabel]]
 ## Past Members
 - Ant
-- Stephanie (deceased, drowning)
+- Stephanie (deceased)
 - Soot Snetchum
+- [[Mike O'Flora]] (stayed at [[Batel#The Big Tower|The Big Tower]])
 # Past Missions
 - [[The Prison Break]]
 - [[Seige on The Big Tower]]

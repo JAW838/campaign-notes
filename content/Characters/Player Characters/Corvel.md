@@ -14,3 +14,5 @@ But nothing lasts forever. After a particularly extravagant evening of comradery
 - Threadcleaver was lost to Paraceleus in a battle about 200 years ago, shortly after Corvel had arrived on the Material Plane. He has been looking for it since, with little success.
 - After killing a necromancer in a village centre, he was imprisoned. The party eventually freed him, along with [[Leon Redbrand]]'s brother and [[Sylas Blackstone]]. He then joined the party on their adventures after receiving a sign from a raven.
 - Had a vision of [[Paraceleus]] holding Threadcleaver in a sandstorm and the sand was blood red (likely [[The Scarlet Sands]]).
+- During the [[Seige on The Big Tower]] ([[2025-11-15]]), Corvel's right hand was severed by an enemy Red Slaad. In an attempt to preserve it, [[Mike O'Flora]] reanimated it, turning it into his servant.
+- After the [[Seige on The Big Tower]], Corvel received Threadcleaver from [[Paraceleus]] in exchange for letting him and his remaining [[Tech Hunters]] go. He donated his previous scythe to a local farmer.

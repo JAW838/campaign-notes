@@ -20,7 +20,9 @@ The following format is (relation, name). Tedmund and Tedfrey are not part of a 
 - Tedgie for short
 - forged spears from iron sand
 ### Grandmother Theodora
+- invented dayquil
 ### Grandfather Tedward
+- Invented the calendar
 ### Father Tedmund
 ### Aunt Tedalyn
 - had a tower made of marble once (they called it Ivory Tower because they thought it was ivory). it was lost while gambling

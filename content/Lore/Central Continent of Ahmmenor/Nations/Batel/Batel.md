@@ -28,6 +28,8 @@ The Eye of Vome was greatly affected by [[The Shattering]]. The building itself 
 Regardless of the exact fate of researchers, [[The Shattering]] left the Eye uninhabited and in a state of disrepair, with research equipment strewn about.
 #### The Tech Hunters
 ~10 years ago, the Eye was adopted by the [[Tech Hunters]] as their primary base of operations and as a research station. Accessing the observatory from the ground is dangerous, so the group has teleportation circles inside, as well as delivers large cargo via flying vehicle. They placed large numbers of fiends at the base of the mountain as protection, although these forces ultimately failed to prevent the [[Seige on The Big Tower]]. 
+#### Mike O'Flora
+During the [[Seige on The Big Tower]], the [[Player Party]] conquered the occupying [[Tech Hunters]], saving [[Diabel]] and [[Corvel#Threadcleaver|Threadcleaver]]. When the fighting had ended [[Mike O'Flora]] stayed behind, deploying his plant powers to transform the building into a tree-like home, complete with large vines, flowers and leaves.
 ### Layout
 #### Upper Levels
 The last level of the Upper Levels is a large circular chamber with a balcony. Laid into the centre of the chamber is an elevator whose shaft descends far into the depths, eventually reaching the Lower Levels.

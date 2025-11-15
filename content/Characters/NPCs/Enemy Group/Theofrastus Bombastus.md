@@ -1,2 +1,4 @@
 - Gnomish alchemist.
 - Allied with [[Tech Hunters]].
+- Has pocket bombs among many contraptions/devices.
+- [[Bartel B.]] quietly placed a tracking ring on him, compromising his location.

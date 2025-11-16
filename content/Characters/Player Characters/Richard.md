@@ -1,7 +1,7 @@
 - Introduced [[2025-08-09]].
 - Fast friends with [[Ondo]].
 - Goliath
-- Went on a [[The Nimyren Empire|Nimyren Empire]] military expedition to some snowy mountains after [[Richard#Uncle Phil|Uncle Phil]] had his episode and got lost in a cave for so long he doesn't know how old he is
+- Went on a [[The Nimyren Empire|Nimyren Empire]] military expedition to some snowy mountains after [[Richard#Uncle Phil|Uncle Phil]] had his episode and got lost in a cave
 - At least 100 years old
 - Writes "Ted Poems" in his spare time.
 # Fucked Family Tree

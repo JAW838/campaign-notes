@@ -1,12 +1,12 @@
 # Characters
 ## Current Members
 - [[Corvel]]
+- [[Diabel]]
 - [[Leon Redbrand]]
+- [[Leone]]
 - [[Ondo]]
 - [[Reen Voidswift]]
 - [[Richard]]
-## MIA Members
-- [[Diabel]]
 ## Past Members
 - Ant
 - Stephanie (deceased)

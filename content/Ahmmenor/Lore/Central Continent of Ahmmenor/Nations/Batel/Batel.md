@@ -20,7 +20,7 @@ Said to have been grown from a seed of the world tree by the first halflings to 
 ## The Big Tower
 **_AKA The Eye of Vome_**  
 ### History
-- Kobolds were imprisoned here (experimented on?) (not sure where this goes)
+At some point in its past, kobolds were imprisoned here, and potentially experimented on.
 #### Before The Shattering
 Built sometime before [[The Shattering]], the Eye of Vome was a celestial research station built atop a mountain, peering into and beyond the cosmos in search of new scientific discoveries. It lies on the intersection of two ley lines, making it easy to channel strong magics there, which was perfect for using magic in their research. No specifics are known about what was being investigated.
 #### The Shattering
@@ -32,7 +32,7 @@ Regardless of the exact fate of researchers, [[The Shattering]] left the Eye uni
 During the [[Seige on The Big Tower]], the [[Player Party]] conquered the occupying [[Tech Hunters]], saving [[Diabel]] and [[Corvel#Threadcleaver|Threadcleaver]]. When the fighting had ended [[Mike O'Flora]] stayed behind, deploying his plant powers to transform the building into a tree-like home, complete with large vines, flowers and leaves.
 ### Layout
 #### Upper Levels
-The last level of the Upper Levels is a large circular chamber with a balcony. Laid into the centre of the chamber is an elevator whose shaft descends far into the depths, eventually reaching the Lower Levels.
+The top floor contains two main rooms: an observation room where measurements were taken, and a meeting room. The meeting room is connected to a staircase leading to the floor below, which is dominated by a large circular chamber with a balcony. Laid into the centre of the chamber is an elevator whose shaft descends far into the depths, eventually reaching the Lower Levels.
 #### Lower Levels
 These levels contain many floors used for research and experimentation, connected by staircases. The floors contained botanical study supplies, automaton and robotics research, and alchemical materials.
 #### Catacombs

@@ -2,7 +2,7 @@
 - Ran an apothecary in the middle of a swamp in [[Arkantos]] and is in the [[Gardening Club]].
 - Has three minions: Millhouse "Mill" Dues, Chant R. L and Fly A. "Fishbones" Garrik. Chant R. L. was made out of dragon bones, dragon blood, a fundamentum and a dead gorilla.
 - Speaks abyssal
-# The Horse Incident
+# Why The Long Face?
 Few interesting things happened at the O'Flora apothecary. Customers would come in, get their medicine, maybe ask a few questions, and leave. But the script was thrown out the window when one day Mike was in the back when he heard the telltale jingle at the front door. Heading to the front desk, Mike asked, "What can I do for you" when he stopped in the doorway, shocked. Staring back at him was a fully grown horse, standing in the middle of the room. Mike shook off his shock and continued his nonchalant act as best he could: "You didn't answer the question." The horse ignored him and inspected the goods on the west shelves, then the east. "You're not my usual clientele" Mike said as the horse took a bottle into its mouth and looked at him. Mike gazed into its eyes and saw something. He couldn't tell what, but there was something behind those eyes that wasn't right. As he took a fresh look at the horse, looking for something he had missed, it turned and walked out the door, paying with nothing but unanswered questions. It could be worse though, Mike quite liked questions.
 # Events
 - [[2025-11-15]]: After summiting [[Batel#The Big Tower|The Big Tower]] and temporarily defeating the [[Tech Hunters]] in the [[Seige on The Big Tower]], Mike filled it with his vines, growing a large tree around and above it, transforming it into a tree-like home.

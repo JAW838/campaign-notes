@@ -1,5 +1,5 @@
 - 370 year old Shadar-Kai from the Shadowfell.
-- Her parents are high priests in the town Reen and [[Corvel]] are from.
+- Her parents are high priests in the Shadowfell town Reen and [[Corvel]] are from.
 - Former member of the [[Monster Hunters]], [[Blood Hunters]], and the [[Order of the Profane Souls]].
 - Body Guard for hire with over 100 years of experience.
 - Follower of the [[Raven Queen]].

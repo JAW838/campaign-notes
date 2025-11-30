@@ -1,0 +1,6 @@
+- must sleep in his coffin once per week, which must be filled with the dirt in which he was buried
+- must be welcome in any building
+- must drink blood
+- monster hunter by trade
+- went to Pandemonium to acquire vamirism to help hunt monsters, has been unable to get it cured
+- holds [[Karra]]'s money

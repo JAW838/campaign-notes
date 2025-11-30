@@ -13,4 +13,5 @@ This is the home of our campaign notes, built with [Quartz](https://quartz.jzhao
 ---
 
 ## Monster Mash
-- Coming soon!!
+> _“How does the horse have unfinished business?”_
+- Find the first session **[[2025-11-29|Here.]]**

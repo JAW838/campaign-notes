@@ -1,0 +1,1 @@
+This goblin convinced [[Llort]] that he had been accepted into Goblin University. [[Llort]] paid an entrance fee and moved along. The goblin then met him again multiple times pretending to be different people and selling him school supplies each time until [[Llort]] ran out of money.

@@ -1,0 +1,7 @@
+- tall and strong but very stupid
+- "just livin life one adventure to the next"
+- believes trees understand him and is scared of them because they are so big
+- carries a statue of the gnomish god, uses it as a club
+- friends with [[Llort]] for 3 years
+- thinks red is tasty
+- "Orange is the gourmet of red"

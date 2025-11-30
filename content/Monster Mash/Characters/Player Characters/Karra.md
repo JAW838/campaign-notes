@@ -1,0 +1,4 @@
+- ghost Aarakocra
+- complicated 3-part backstory which has not been nailed down yet
+- curse looks like a crackling purple-red energy surrounding a creature
+- his money is held by [[Aurel]].

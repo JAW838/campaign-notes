@@ -1,0 +1,4 @@
+- muscular for a troll
+- grey skin
+- troll-like
+- spent his entire life working under a bridge until he was told by a goblin he had been accepted into goblin college. he was then scammed by this goblin multiple times, each time buying school supplies from them.

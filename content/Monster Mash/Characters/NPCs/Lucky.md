@@ -1,0 +1,1 @@
+- A merchant in Tradegate who sells monster parts and charms (Lucky's Charms).

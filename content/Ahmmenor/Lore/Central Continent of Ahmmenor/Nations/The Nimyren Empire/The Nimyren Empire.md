@@ -10,6 +10,9 @@ The Empire is home to five provinces.
 3. Hugging the southeast corner of the Empire is [[Sorabor]], recently conquered during the [[The World#The Sorabor Conflict|The Sorabor Conflict]].
 4. [[The Cindered Scar]], a nearly uninhabited section of land devastated by a powerful magical artifact many centuries ago.
 5. Lying between [[Gulfen]] and [[Sorabor]], [[Windsor]] was formed by the remaining humans after the [[The Nimyren War|Nimyren War]].
+
+# Narmor
+The capitol city of the Nimyren Empire is Narmor.
 # Demographics
 The Empire is inhabited primarily by Dwarves, Elves and Humans.
 ![[image3.png]]![[nimyren empire flag.png]]

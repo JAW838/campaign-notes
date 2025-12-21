@@ -5,7 +5,7 @@
 - At least 100 years old
 - Writes "Ted Poems" in his spare time.
 # Fucked Family Tree
-The following format is (relation, name). Tedmund and Tedfrey are not part of a church (afaik).
+The following format is (relation, name). Tedmund and Tedfrey are not known to be part of a church.
 ## Mother's Side
 
 ### Grandfather Tedster
@@ -14,6 +14,7 @@ The following format is (relation, name). Tedmund and Tedfrey are not part of a 
 ### Uncle
 - Previously Uncle Teddy (lost his name to the fey).
 ### Uncle Tedrick
+- The first chiropractor
 ## Father's Side
 ### Great Great Great Grandfather Ted
 ### Great Grandfather Tedginald
@@ -23,6 +24,7 @@ The following format is (relation, name). Tedmund and Tedfrey are not part of a 
 - invented dayquil
 ### Grandfather Tedward
 - Invented the calendar
+- Invented brioche
 ### Father Tedmund
 ### Aunt Tedalyn
 - had a tower made of marble once (they called it Ivory Tower because they thought it was ivory). it was lost while gambling

@@ -5,3 +5,4 @@
 - friends with [[Llort]] for 3 years
 - thinks red is tasty
 - "Orange is the gourmet of red"
+- Thinks [[Devalyn]] is a bird.

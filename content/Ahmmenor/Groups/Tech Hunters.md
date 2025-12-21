@@ -10,7 +10,7 @@ The Tech Hunter's earliest known involvement with the [[Player Party]] is when t
 The group has operated out of [[Batel#The Big Tower|The Big Tower]] for ~10 years, and their actions there likely align with the research they performed during previous expeditions. They guard the location with a large number of fiends, and have moved much material into the base via skyship.
 In the catacombs of [[Batel#The Big Tower|The Big Tower]] they were experimenting with fusing control technology into halflings, with a helmet with the power to control the modified halflings. All research was signed by [[Gestalt]]. This technology was stolen by [[Kajal]] during the [[Seige on The Big Tower]].
 The halfings were old experiments, with a new version appearing to be purely technological.
-After their defeat in the [[Seige on The Big Tower]], they retreated to an unknown location, their numbers greatly diminished but their command structure intact.
+After their defeat in the [[Seige on The Big Tower]], they retreated to a secondary location in [[The Scarlet Sands]], their numbers greatly diminished but their command structure intact.
 ### Current Goals
 At first they experimented with infusing halflings with technology in order to control them, and they have transitioned to building completely technological beings to control.
 # Known Members

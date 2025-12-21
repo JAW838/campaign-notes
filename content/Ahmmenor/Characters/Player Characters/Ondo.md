@@ -20,6 +20,8 @@ Ondo was given a book by the gods or something to guide him on his journey. The 
 # The Book Club Experiment
 At some point, Ondo found himself at a book club meeting. Not wanting to stand out, he discussed a book he had read recently which was from his homeland. The members of the club nodded knowingly during his description of the book despite him having invented the book mere moments ago. This led him to the realisation that book clubs were easily fooled, and thus discussing non-existent books written in a language he couldn't read (any language) became a favourite pastime of his.
 Additionally, despite Ondo's insistence that he is performing an experiment, he is not testing a hypothesis, collecting data, or reaching any kind of conclusion. The prevailing theory as to *why* Ondo calls it an experiment is that he doesn't know how experiments are performed or what purpose they serve.
+# Fish-Related Crimes
+Early in the campaign, he bought several large barrels of fish with reward money and stuffed the fish in random people's houses. Someone intentionally ripped open victim's couches and stuffed them with fish.
 # Arch-Nemeses
 - 2 Nothics
 - [[Kajal]]

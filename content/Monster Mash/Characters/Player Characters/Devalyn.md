@@ -1,0 +1,3 @@
+- Deva from Mount Celestia
+- Fancies himself an anthropologist
+- Often asks about the socio-economic situation of random places.

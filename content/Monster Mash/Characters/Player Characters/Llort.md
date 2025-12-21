@@ -2,3 +2,4 @@
 - grey skin
 - troll-like
 - spent his entire life working under a bridge until he was told by a goblin he had been accepted into goblin college. he was then scammed by this goblin multiple times, each time buying school supplies from them.
+- his acceptance letter says "tell this man you work for goblin university and have him buy your stuff, he is an imbecile"

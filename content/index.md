@@ -9,7 +9,7 @@ This is the home of our campaign notes, built with [Quartz](https://quartz.jzhao
 - Explore the **[[The World]]** for fun lore. **(UPDATED WITH NEW TIMELINE)**
 - Take a look at **[[Tech Hunters]]** to see what we're up against.
 - Check out **[[Seige on The Big Tower]]** to see how the last arc ended.
-- Browse the latest **[[2025-11-15|Session Notes]]** for a detailed summary of the last session.
+- Browse the latest **[[2026-01-03|Session Notes]]** for a detailed summary of the last session.
 ---
 
 ## Monster Mash

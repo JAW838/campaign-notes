@@ -4,6 +4,9 @@
 - Went on a [[The Nimyren Empire|Nimyren Empire]] military expedition to some snowy mountains after [[Richard#Uncle Phil|Uncle Phil]] had his episode and got lost in a cave
 - At least 100 years old
 - Writes "Ted Poems" in his spare time.
+- Indentured servitude (inTEDsured servitude)
+- His family served [[Emperor Ballas]] and received land and potentially wealth in return.
+- He states winter is "when cold" but his sense of temperature is questionable.
 # Fucked Family Tree
 The following format is (relation, name). Tedmund and Tedfrey are not known to be part of a church.
 ## Mother's Side
@@ -17,6 +20,8 @@ The following format is (relation, name). Tedmund and Tedfrey are not known to b
 - The first chiropractor
 ## Father's Side
 ### Great Great Great Grandfather Ted
+- The first Ted
+- Very important to the Ted culture.
 ### Great Grandfather Tedginald
 - Tedgie for short
 - forged spears from iron sand

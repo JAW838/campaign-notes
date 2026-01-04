@@ -11,5 +11,12 @@ The capital city floats in the sky.
 - The party spent most of their time here flying over it on a sky ship.
 - The smallest island is home to a small group of healers.
 - The largest island is home to monsters used for hunting training. Some monsters are native and others were captured and moved there.
+## Islands of Murder
+### Cruelty
+The largest island covered in aggressive monsters. At the centre of the island stands a large mountain, and spreading from the base of the mountain is dense forest. It is a "uniquely awful wilderness".
+### Disdain
+big castle, wide fields for training, large barracks. The castle has four pillars, one for each subclass of bloodhunter. castle has mess hall, chapel to the raven queen
+### Indifference
+The smallest island.
 
 ![[valorya.png]]

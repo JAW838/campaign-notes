@@ -4,6 +4,7 @@
 - Has no current goal or direction. He simply wanders around looking for entertainment.
 - Loses object permanence when hungry.
 - His favourite colours are brown, orange, and red in that order.
+- Can play the [Benny Hill theme](https://youtu.be/MK6TXMsvgQg?si=MFIZXLm3ri4MMKfd) on harmonica.
 # Signature Weapon
 His signature staff was forged from Star Sand by a skilled tradesman in his home country.
 # Rock

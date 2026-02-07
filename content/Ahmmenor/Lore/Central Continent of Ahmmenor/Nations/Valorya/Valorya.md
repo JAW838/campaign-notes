@@ -14,8 +14,12 @@ The capital city floats in the sky.
 ## Islands of Murder
 ### Cruelty
 The largest island covered in aggressive monsters. At the centre of the island stands a large mountain, and spreading from the base of the mountain is dense forest. It is a "uniquely awful wilderness".
+#### The Hollow
+A terrible place, it is a massive tree trunk. Forests and a pond/lake lie inside of it.
 ### Disdain
-big castle, wide fields for training, large barracks. The castle has four pillars, one for each subclass of bloodhunter. castle has mess hall, chapel to the raven queen
+Home of [[Blood Hunters|Blood Hunter]] HQ, the island is covered in forests, barracks, and wide fields for training. The HQ is a large castle with four pillars, representing the [[Blood Hunters#Subgroups|four subgroups]].
+
+big castle, wide fields for training, large barracks. The castle has four pillars, one for each subclass of bloodhunter. castle has mess hall, chapel to the raven queen. A wooly mammoth and gelatinous cube live in the woods.
 ### Indifference
 The smallest island.
 

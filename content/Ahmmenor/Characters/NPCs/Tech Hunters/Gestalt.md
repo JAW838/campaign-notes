@@ -1,0 +1,4 @@
+- Gestalt is not the name of this character (title?)
+- Works for [[Tech Hunters]].
+- Is doing reckless experiments in [[Batel#The Big Tower|The Big Tower]], fusing halflings with magical technology with the goal of creating a helmet with the power to control the fused creatures.
+- Incredibly creepy

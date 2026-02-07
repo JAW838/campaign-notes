@@ -7,5 +7,6 @@
 - Favored weapon is a longsword.
 - Reen is more of a lofty and curious background character that can restrain [[Leon Redbrand]] when needed.
 - Sometimes connects with things on a deeper level and can see their past.
+- Has a brother who leads the Elven forces, called the "Warmaster".
 # Astral
 Reen's signature weapon is Astral, a silver longsword that has been with her for over 200 years, given to her by a human close friend [[Monster Hunters|Monster Hunter]] when he was 80 (250 years ago). The sword was then modified into what it is today.

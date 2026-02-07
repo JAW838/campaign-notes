@@ -2,9 +2,10 @@
 - Devout follower of the [[Raven Queen]].
 - Has an interest in history.
 - Favoured weapon is the scythe, which he cares for religiously. During the period he didn't have Threadcleaver, he transformed the used-and-abused scythes he acquired into pristine and well-kept tools.
+- Wears an intimidating mask. This hides his identity but also serves as his prescription glasses.
 # Threadcleaver
 ## General
-Corvel's signature weapon, Threadcleaver is a scythe with a sharp obsidian stem and a raven-like skull apparatus connecting the blade to the stem. The blade protrudes from the skull like a beak and its eyes glow when the weapon flies about, attacking at the heed of its wielder.
+Corvel's signature weapon, Threadcleaver is a scythe with a sharp obsidian shaft and a raven-like skull apparatus connecting the blade to the shaft. The blade protrudes from the skull like a beak and its eyes glow when the weapon flies about, attacking at the heed of its wielder.
 ## Artifact Weakness
 As an [[Artifacts|Artifact]], Threadcleaver can be destroyed only by the utterance of the name of the god usurped by the [[Raven Queen]] in its presence.
 # Right Hand

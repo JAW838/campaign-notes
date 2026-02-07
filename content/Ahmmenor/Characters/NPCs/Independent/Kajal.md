@@ -3,6 +3,6 @@
 - Replaced the parts of his brain that made him susceptible to syphilis and fear (frightened condition) with immune replacements.
 - Immune to chlamydia because he possesses koala DNA.
 - Has a magic item that gives him 15ft true sight.
-- [[Ondo]]'s arch-nemesis and wants badly to kill him.
+- [[Ondo Edafoss]]'s arch-nemesis and wants badly to kill him.
 # Events
-- [[2025-09-20]]: Was caught and thwarted by the [[Player Party]] while attempting to steal tech "prototypes" from the [[Tech Hunters]]'s base in the [[Batel#The Big Tower|The Big Tower]]. He controlled the modified halflings being experimented on while in combat but did not escape with any.
+- [[2025-09-20]]: Was caught and thwarted by the [[Roving Seven]] while attempting to steal tech "prototypes" from the [[Tech Hunters]]'s base in the [[Batel#The Big Tower|The Big Tower]]. He controlled the modified halflings being experimented on while in combat but did not escape with any.

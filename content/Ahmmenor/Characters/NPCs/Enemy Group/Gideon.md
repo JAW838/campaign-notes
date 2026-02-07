@@ -1,5 +1,0 @@
-- Wears a mask.
-- Allied with [[Tech Hunters]].
-- Suspected of being a victim of [[Diabel]]'s anger management issues.
-- Technomancer (generates magic using technology)
-- Has an unnamed boss.

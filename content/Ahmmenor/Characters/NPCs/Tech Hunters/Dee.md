@@ -1,0 +1,3 @@
+- Wears a porcelain mask and a metal glove.
+- Warforged
+- Specialty is robotics

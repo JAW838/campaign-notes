@@ -1,10 +1,10 @@
 # Characters
 ## Current Members
 - [[Corvel]]
-- [[Diabel]]
+- [[Diabel Songlark]]
 - [[Leon Redbrand]]
 - [[Leone]]
-- [[Ondo]]
+- [[Ondo Edafoss]]
 - [[Reen Voidswift]]
 - [[Richard]]
 ## Past Members

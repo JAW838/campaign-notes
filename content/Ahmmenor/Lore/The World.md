@@ -50,4 +50,4 @@ Sometime in the last decade, the nation occupying what is now [[Sorabor]] attack
 ### The Nimyren-Arkantos War (?-Present)
 The ongoing war between [[The Nimyren Empire]] and [[Arkantos]], started when an [[Arkantos]] spy was discovered attempting to assassinate a general of the [[The Nimyren Empire|Empire]].
 ### Present (246 NU)
-![[image.png]]
+![[Ahmmenor/Lore/Central Continent of Ahmmenor/Notable Areas/image.png]]

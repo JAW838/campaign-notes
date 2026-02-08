@@ -1,0 +1,2 @@
+- Human noble
+- Appeared [[2026-01-31]].

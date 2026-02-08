@@ -12,7 +12,7 @@ The Empire is home to five provinces.
 5. Lying between [[Gulfen]] and [[Sorabor]], [[Windsor]] was formed by the remaining humans after the [[The Nimyren War|Nimyren War]].
 
 # Narmor
-The capitol city of the Nimyren Empire is Narmor.
+The capitol city of the Nimyren Empire is Narmor. It features a permanent [[Magic Marty]]'s location.
 # Demographics
 The Empire is inhabited primarily by Dwarves, Elves and Humans.
 ![[image3.png]]![[nimyren empire flag.png]]

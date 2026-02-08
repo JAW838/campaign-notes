@@ -1,0 +1,3 @@
+- Dark elf
+- Advisor/royal liaison to the elf king, head of the elven high council in his stead
+- Appeared [[2026-01-31]].

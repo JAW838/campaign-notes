@@ -1,0 +1,4 @@
+- An aarakocra in [[The Nimyren Empire]]'s military
+- Known for blowing things up and lighting things on fire and is a very high level spellcaster
+- Is essentially a weapon the military points at an object when they want it destroyed
+- Appeared [[2026-02-07]].

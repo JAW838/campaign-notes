@@ -7,10 +7,12 @@ The group also recovered or otherwise acquired lost mid-[[The Shattering|Shatter
 The goals of the Hunters at this time are unknown, however it can be guessed that they were looking for technology or magic to use in their later schemes.
 ## Campaign
 The Tech Hunter's earliest known involvement with the [[Roving Seven]] is when they struck a deal with [[Sylas Blackstone]], in which they would provide pieces of their research to him in exchange for [[Diabel Songlark]]. They were successful in capturing him, and presumably followed through on their deal. Why the Hunters wanted [[Diabel Songlark]] is unknown, as is the nature of the information they exchanged for him.
+### The Big Tower
 The group has operated out of [[Batel#The Big Tower|The Big Tower]] for ~10 years, and their actions there likely align with the research they performed during previous expeditions. They guard the location with a large number of fiends, and have moved much material into the base via skyship.
 In the catacombs of [[Batel#The Big Tower|The Big Tower]] they were experimenting with fusing control technology into halflings, with a helmet with the power to control the modified halflings. All research was signed by [[Gestalt]]. This technology was stolen by [[Kajal]] during the [[Seige on The Big Tower]].
 The halfings were old experiments, with a new version appearing to be purely technological.
-After their defeat in the [[Seige on The Big Tower]], they retreated to a secondary location in [[The Scarlet Sands]], their numbers greatly diminished but their command structure intact.
+### The Sunken City
+After their defeat in the [[Seige on The Big Tower]], they retreated to a secondary location in [[The Scarlet Sands]] near the [[The Scarlet Sands#Sunken City|Sunken City]], their numbers greatly diminished but their command structure intact.
 ### Current Goals
 At first they experimented with infusing halflings with technology in order to control them, and they have transitioned to building completely technological beings to control.
 # Known Members

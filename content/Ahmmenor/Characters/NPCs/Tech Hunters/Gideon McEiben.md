@@ -1,6 +1,6 @@
 - Wears a mask.
 - Allied with [[Tech Hunters]].
-- Suspected of being a victim of [[Diabel Songlark]]'s anger management issues.
+- Victim of [[Diabel Songlark]]'s anger management issues (hence the mask).
 - Technomancer (generates magic using technology)
 - Has an unnamed boss.
 - has a big technology breakdown machine

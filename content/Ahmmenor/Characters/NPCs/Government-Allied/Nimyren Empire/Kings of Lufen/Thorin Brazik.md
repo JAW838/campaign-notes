@@ -1,2 +1,4 @@
 One of the 5 Kings of [[Lufen]], High King of [[Lufen#Sundari|Sundari]] and Bearer of the Forge Keeper’s Crown.
 Thorin is the Grandson of Thror, the last true King of Lufen. After the untimely death of his father Thrain, during the Lufen Civil war Thorin was denied his birthright as the Rightful king of Lufen. He wields the greatest weapon born of his city's forge, a massive & unwieldy blade known only as “The Throngler”.
+Closest thing [[Lufen]] has to a head of state.
+- Appeared [[2026-01-31]].

@@ -1,3 +1,6 @@
+- has a four-legged chocobo named Duckweed. apparently it can defend itself well.
+# Backstory
+Back in the day he was in a movement against the treatment of kobolds, goblins, and other disenfranchised people. did rallies n stuff (activism). [[Gideon McEiben]] approached him with a group while Diabel was drunk in a tavern and badgered him, and generally was an asshole (including slurs). Diabel became angry attacked him with acid claws and essentially melted his face. This sparked a bar fight and put Diabel in the bad graces of a lot of people. Police searched for him and he escaped the city with the help of Prof. Penn Scratch. He ran to a druid camp where they changed his appearance for a time, which was where he was found by the [[Roving Seven]].
 # Events
 - Captured by [[Paraceleus]] while doing battle with him.
 - Was held captive by [[Tech Hunters]] and was tortured by them.

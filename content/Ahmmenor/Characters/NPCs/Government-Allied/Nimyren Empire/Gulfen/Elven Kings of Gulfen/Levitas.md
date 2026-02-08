@@ -3,8 +3,7 @@
 - Was King of the region when the warring factions were united into the Empire by [[Emperor Ballas]].
 - Aided in his rule by a [[Gulfen#Councilors|Council of 5 Elvish nobility]] 
 # Royal Liaison
-# Dezeran Thain
-The right hand man of King Levitas.
+The right hand man of the King, [[Dezeran Thain]] is a trusted advisor of the King and rules the high council in his stead when he is unavailable.
 # Councilors
 ## Lyshann Mithrandir
 A Pallid Elf Tasked with overseeing the Illuminate Academy. The Symbol of her station is the crescent moon upon a starry sky.

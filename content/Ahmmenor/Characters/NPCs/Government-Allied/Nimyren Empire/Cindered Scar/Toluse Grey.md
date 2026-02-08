@@ -1,0 +1,2 @@
+- half elven Noble from the family that watches over the Cindered Scar
+- Appeared [[2026-01-31]].

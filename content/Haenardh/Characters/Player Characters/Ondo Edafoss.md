@@ -6,6 +6,8 @@
 - His favourite colours are brown, orange, and red in that order.
 - Can play the [Benny Hill theme](https://youtu.be/MK6TXMsvgQg?si=MFIZXLm3ri4MMKfd) on harmonica.
 - Can be paid in rare and artisanal sands.
+- Grandfather was buried in a sarcophagus
+- On completion of his quest, he will become the leader of his group.
 # Signature Weapon
 His signature staff was forged from Star Sand by a skilled tradesman in his home country.
 # Rock

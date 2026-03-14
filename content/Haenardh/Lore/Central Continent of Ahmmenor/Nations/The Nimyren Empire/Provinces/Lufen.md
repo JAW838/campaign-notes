@@ -2,7 +2,7 @@ Northernmost Province, Formed from the greater lands of the old Dwarvish Kingdom
 
 After the death of its ruler shortly after the founding of the Empire a brief war of succession commenced, ending with the 5 most prominent lords of the land each being named “King” of their respective territories & the one among them with the best.
 # The Wall
-A more than 2000 mile long, 10 story tall structure that spans the length of the flatlands between [[the North]]’s Eastern & Western mountains.
+A more than 2000 mile long, 10 story tall structure that spans the length of the flatlands between [[The North]]’s Eastern & Western mountains.
 # The 5 Kings of Lufen
 - [[Durin Ballinor]], King of Pharûnar & Bearer of the Mithril Crown
 - [[Thráin Bahammar]], King of Arulain & Bearer of the Opulent Crown

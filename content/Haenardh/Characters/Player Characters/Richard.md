@@ -21,9 +21,10 @@
    A Ted Is Like
    An engulfing roaring tempest
    strong all consuming
+# Ted Wisdoms
+Presumably a list of useful sayings passed through the Ted line.
 # Fucked Family Tree
-The following format is (relation, name). Tedmund and Tedfrey are not known to be part of a church.
-Everyone in this family tree is still alive.
+The following format is (relation, name). Tedmund and Tedfrey are not known to be part of a church. Everyone in this family tree is still alive. Al-QaeTed is not canon.
 ## Mother's Side
 
 ### Grandfather Tedster
@@ -44,6 +45,7 @@ Everyone in this family tree is still alive.
 - forged spears from iron sand
 ### Grandmother Theodora
 - invented dayquil
+-  Founder of Al-QaeTed
 ### Grandfather Tedward
 - Invented the calendar
 - Invented brioche
@@ -52,7 +54,8 @@ Everyone in this family tree is still alive.
 ### Aunt Tedalyn
 - had a tower made of marble once (they called it Ivory Tower because they thought it was ivory). it was lost while gambling
 ### Cousin Ted
-- Hosted a talk show called 'Ted Talk' which lasted for 1.5 seasons: winter and spring
+- Hosted a talk show called 'Ted Talk' which lasted for 1.5 seasons: winter and spring. "Winter" was half a season, "and" was half a season, and "spring" was half a season.
+- Always said "carpenters build with the hands, that's what makes them shady" on his Ted Talk.
 ## Uncle Teddy
 - In his occult aboleth phase
 - Parents are very disappointed
@@ -62,5 +65,19 @@ Everyone in this family tree is still alive.
 - eloped with a celestial.
 - always said: "caves are were the heart lies. mainly for witches. so always check the caves."
 - Is somehow involved with Richard leaving the military.
+- Leader of Al-QaeTed
 ## Other Relatives
 ### Brother Tedfrey
+# Family Tradition
+The sun gives way to quiet night,
+I mount the roof to claim my right.
+9 years of life have passed now,
+so I gently hold the cash cow.
+My cow. My tree. How I love,
+The fortune you will bring me.
+You fit the pot like a glove.
+At night I plant my cash tree.
+
+Wind sings through the leaves
+I am clever, like a squirrel
+Trees grow money for buying

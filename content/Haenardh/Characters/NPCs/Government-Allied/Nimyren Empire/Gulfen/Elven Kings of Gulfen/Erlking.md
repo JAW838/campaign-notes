@@ -1,0 +1,3 @@
+The First Elven King of [[Gulfen]], the Erlking was responsible for many great things during his 10,000-year reign. He aided in establishing [[Gulfen]] as one of [[The World]]'s earliest societies and established his [[Gulfen#The Alabaster Throne|Alabaster Throne]] as an important authority within the world at large. The time period during his reign is known as [[The World#The Age of Myth (0-10,000)|The Age of Myth]].
+# Death
+The Erlking was one of the first killed during [[The World#The War of Divine Egress|The War of Divine Egress]], and it is said that the god who killed him placed a curse on this throne such that whoever ruled from it would reign shorter than his predecessor.

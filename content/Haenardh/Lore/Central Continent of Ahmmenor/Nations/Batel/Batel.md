@@ -14,7 +14,7 @@ The Kobalt Academy, a massive library & center for learning within the realm, or
 ## The Big Mine
 An ancient dwarven mine, the epitome of “Dug too greedily & too deep” no one knows what happened to its original inhabitants or how deep it really goes  
 ## The Big Soup
-A massive perpetual stew maintained by the goblins of this land since before the shattering.
+A massive perpetual stew maintained by the goblins of this land since before the shattering. These goblins have a rivalry with a group of dwarves in [[The Nimyren Empire]].
 ## The Big Tree
 Said to have been grown from a seed of the world tree by the first halflings to settle this land.
 ## The Big Tower

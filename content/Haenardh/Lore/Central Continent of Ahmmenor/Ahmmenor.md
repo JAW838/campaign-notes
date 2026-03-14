@@ -1,4 +1,4 @@
-The central continent of [[the world]], it is held in a delicate political balance between multiple prominent nations. The primary location of the current campaign.
+The central continent of [[The World]], it is held in a delicate political balance between multiple prominent nations. The primary location of the current campaign.
 # Nations
 ## Arkantos
 A nation full of diversity, many people fled to [[Arkantos]] after the destruction wrought by [[The Shattering]]. Many there are fluent in the way of magic.

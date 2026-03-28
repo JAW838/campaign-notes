@@ -78,6 +78,6 @@ The fortune you will bring me.
 You fit the pot like a glove.
 At night I plant my cash tree.
 
-Wind sings through the leaves
-I am clever, like a squirrel
-Trees grow money for buying
+A Ted is a tree
+A guard against the harsh winds
+Shelter in the storm

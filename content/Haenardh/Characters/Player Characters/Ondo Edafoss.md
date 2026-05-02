@@ -8,6 +8,7 @@
 - Can be paid in rare and artisanal sands.
 - Grandfather was buried in a sarcophagus
 - On completion of his quest, he will become the leader of his group.
+- Possesses some kind of wizard education and has exquisite penmanship in non-Common.
 # Signature Weapon
 His signature staff was forged from Star Sand by a skilled tradesman in his home country.
 # Rock

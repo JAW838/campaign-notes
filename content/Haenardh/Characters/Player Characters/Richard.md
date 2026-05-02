@@ -10,6 +10,7 @@
 - Teds are homeschooled.
 - Teds must be named, like an honorary title.
 - He is on a "Tedspedition".
+- Went to Ted School.
 # Ted Poems
 1. a ted is like the blue sky of an auburn day,
    mystical a scerene with a hate for the fey
@@ -24,7 +25,7 @@
 # Ted Wisdoms
 Presumably a list of useful sayings passed through the Ted line.
 # Fucked Family Tree
-The following format is (relation, name). Tedmund and Tedfrey are not known to be part of a church. Everyone in this family tree is still alive. Al-QaeTed is not canon.
+The following format is (relation, name). Tedmund and Tedfrey are not known to be part of a church. Everyone in this family tree is still alive. Al-QaeTed is not canon. They claim to have invented chairs with backs, but this claim is controversial.
 ## Mother's Side
 
 ### Grandfather Tedster
@@ -68,6 +69,8 @@ The following format is (relation, name). Tedmund and Tedfrey are not known to b
 - Leader of Al-QaeTed
 ## Other Relatives
 ### Brother Tedfrey
+- "To know thy enemy is to know thyself, and to know thyself is to be a Ted"
+- "To stab thy enemy is to stab thyself"
 # Family Tradition
 The sun gives way to quiet night,
 I mount the roof to claim my right.

@@ -24,8 +24,12 @@
    strong all consuming
 # Ted Wisdoms
 Presumably a list of useful sayings passed through the Ted line.
-# Fucked Family Tree
-The following format is (relation, name). Tedmund and Tedfrey are not known to be part of a church. Everyone in this family tree is still alive. Al-QaeTed is not canon. They claim to have invented chairs with backs, but this claim is controversial.
+# Ted Family
+- In [[2026-05-02]], the Analytical Archive described a widely despised family in northern [[Ahmmenor]] going by the name Ted. If this family is indeed the ancestors of Richard, then the Ted line goes back at least ~1700 years.
+- Additionally, the earliest person named Ted on record had their name spelled Tood, after a character in a children's book.
+- The following format is (relation, name). Tedmund and Tedfrey are not known to be part of a church. Everyone in this family tree is still alive.
+- Al-QaeTed is not canon.
+- The Ted family claims to have invented chairs with backs, but this claim is controversial and not widely accepted.
 ## Mother's Side
 
 ### Grandfather Tedster

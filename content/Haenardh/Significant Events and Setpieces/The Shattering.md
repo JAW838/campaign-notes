@@ -2,7 +2,7 @@ An apocalyptic failure of the weave of magic which destroyed many parts of the w
 # Cause
 The primary cause of this disaster is unknown. However there are several theories:
 - Punishment from the gods. If this is the case, it is likely because the Raven Queen, a mortal, overthrew a god and took their place.
-- A foolish mage attempted a magic too outlandishly vast for the weave to strain
+- A foolish mage attempted a magic too outlandishly vast for the weave to handle
 - The pressure of all the magics of the world had become too much
 # Effects of the Shattering
 - Much of the magic around the world was sundered, erased, or tainted by an apparent rot within the weave.
@@ -12,3 +12,5 @@ The primary cause of this disaster is unknown. However there are several theorie
 - Driving substantial amounts of people away from the mainland towards and forming the nation of [[Arkantos]].
 - Because magic was so weak, special kinds of technology were created which fused magic with tech. A modified form of this was used during [[2025-09-20]] by [[Kajal]] and was created by the [[Tech Hunters]].
 - Some magics were more affected than others, ones like blood magic were less affected because they are fueled partially by the caster's vitality.
+# Recovery
+After magic collapsed, the weave slowly pulled itself together over the next thousand years. During this time, magic was weaker, inconsistent, and unreliable. By the time of [[The Inquisition]] it was likely mostly back to normal. 

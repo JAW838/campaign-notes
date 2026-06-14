@@ -36,6 +36,7 @@ Presumably a list of useful sayings passed through the Ted line.
 - Grandfathered in "scateboarding"
 ### Grandmother Teda
 - Tried to introduce a base 11 number system but it didn't catch on.
+- Went to art school.
 ### Uncle
 - Previously Uncle Teddy (lost his name to the fey).
 ### Uncle Tedrick

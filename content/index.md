@@ -8,8 +8,8 @@ This is the home of our campaign notes, built with [Quartz](https://quartz.jzhao
 > _“Challenging pregnant god since 1977.”_
 - Explore the **[[The World]]** for fun lore. **(UPDATED WITH NEW TIMELINE)**
 - Take a look at **[[Tech Hunters]]** to see what we're up against.
-- Check out **[[Seige on The Big Tower]]** to see how the last arc ended.
-- Browse the latest **[[2026-05-02|Session Notes]]** for a detailed summary of the last session.
+- Check out **[[The Hunters Become the Prey]]** to catch up on the current arc.
+- Browse the latest **[[2026-06-13|Session Notes]]** for a detailed summary of the last session.
 ---
 
 ## Monster Mash

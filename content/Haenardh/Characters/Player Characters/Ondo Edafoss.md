@@ -7,8 +7,9 @@
 - Can play the [Benny Hill theme](https://youtu.be/MK6TXMsvgQg?si=MFIZXLm3ri4MMKfd) on harmonica.
 - Can be paid in rare and artisanal sands.
 - Grandfather was buried in a sarcophagus
-- On completion of his quest, he will become the leader of his group.
+- On completion of his quest, he will become the leader of his group. He has completed three of the four elemental trials
 - Possesses some kind of wizard education and has exquisite penmanship in non-Common.
+- Extremely weak to propaganda - once tried to enlist in a country he didn't have citizenship in.
 # Signature Weapon
 His signature staff was forged from Star Sand by a skilled tradesman in his home country.
 # Rock

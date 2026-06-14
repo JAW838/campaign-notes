@@ -1,3 +1,4 @@
 - Wears a porcelain mask and a metal glove.
 - Warforged
 - Specialty is robotics
+- Killed [[2026-06-13]] during a confrontation with the [[Roving Seven]] atop a clock tower.

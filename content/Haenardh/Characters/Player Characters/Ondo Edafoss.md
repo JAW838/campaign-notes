@@ -14,8 +14,18 @@
 - Reading Sun Tsands - The Art of War and Crafts
 # Signature Weapon
 His signature staff was forged from Star Sand by a skilled tradesman from his home country.
+# Vision Quest
+## Circle of Sand
+Representing Earth, Ondo completed this challenge in his backstory which at this point is known only to him. This is a very dangerous challenge as the death of the participant is not uncommon.
+## Circle of Change
+Representing Water, this challenge was completed while Ondo was with the [[Roving Seven|Seven]]. During this fight the group fought a monster which adapted to the damage being done to it, forcing them to vary the attacks they used.
+## Circle of Bones
+Representing Fire, the [[The Scarlet Sands#Circle of Bone|Circle of Bone]] is a huge skeleton made of black stone. Their challenge was completed when Ondo, with the help of the [[Roving Seven]] during [[2026-02-28]], defeated a powerful enemy during an underground arena fight.
+## Unknown Circle of Air
+## Unknown Circle of Darkness
+## Unknown Circle of Light
 # Rock
-He has a cool rock he found at the docks. This rock is unreasonably important to him. It has literally no value or significance to anyone else. It's just a rock he found.
+A cool rock he found at the docks. This rock is unreasonably important to him. It has literally no value or significance to anyone else. It's just a rock he found.
 He came to a situation where he had to give up something legitimately important to him and he gave up the rock.
 # Tophat
 Mercury hat ????
@@ -23,7 +33,6 @@ Mercury hat ????
 This is [[Sylas Blackstone]]'s hat. He was allowed to take it in exchange for exiting his office.
 # The Book
 Ondo was given a book by the gods or something to guide him on his journey. The book is currently in [[Corvel]]'s possession because Ondo literally cannot read it, even though it is basically in his job description to be able to read it.
-- Circle of Change (water)
 # The Book Club Experiment
 At some point, Ondo found himself at a book club meeting. Not wanting to stand out, he discussed a book he had read recently which was from his homeland. The members of the club nodded knowingly during his description of the book despite him having invented the book mere moments ago. This led him to the realisation that book clubs were easily fooled, and thus discussing non-existent books written in a language he couldn't read (any language) became a favourite pastime of his.
 Additionally, despite Ondo's insistence that he is performing an experiment, he is not testing a hypothesis, collecting data, or reaching any kind of conclusion. The prevailing theory as to *why* Ondo calls it an experiment is that he doesn't know how experiments are performed or what purpose they serve.

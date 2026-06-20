@@ -1,6 +1,8 @@
 - has a four-legged chocobo named Duckweed. apparently it can defend itself well.
+- Majored in Arts, minored in Business.
+- Made a deal with [[Ikol]]: Leif would give [[Ikol]] a favour in exchange for him leaving the party alone.
 # Backstory
-Back in the day he was in a movement against the treatment of kobolds, goblins, and other disenfranchised people. did rallies n stuff (activism). [[Gideon McEiben]] approached him with a group while Diabel was drunk in a tavern and badgered him, and generally was an asshole (including slurs). Diabel became angry attacked him with acid claws and essentially melted his face. This sparked a bar fight, during which Diabel killed several people. Police searched for him and he escaped the city with the help of Prof. Penn Scratch. He ran to a druid camp where they changed his appearance for a time, which was where he was found by the [[Roving Seven]].
+Back in the day he was in a movement against the treatment of kobolds, goblins, and other disenfranchised people. did rallies n stuff (activism). [[Gideon McEiben]] approached him with a group while Leif was drunk in a tavern and badgered him, and generally was an asshole (including slurs). Leif became angry attacked him with acid claws and essentially melted his face. This sparked a bar fight, during which Leif killed several people. Police searched for him and he escaped the city with the help of Prof. Penn Scratch. He ran to a druid camp where they changed his appearance for a time, which was where he was found by the [[Roving Seven]].
 # Events
 - Captured by [[Paraceleus]] while doing battle with him.
 - Was held captive by [[Tech Hunters]] and was tortured by them.
@@ -13,4 +15,4 @@ mix of celestial and infernal (very ancient magic). they are large and are likel
 - could debilitate
 - could be harmless
 - could instakill
-- could be an off switch for diabel's brain
+- could be an off switch for Leif's brain

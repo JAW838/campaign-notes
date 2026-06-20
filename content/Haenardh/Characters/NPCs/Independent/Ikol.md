@@ -1,0 +1,3 @@
+A wispy changeling which inhabits a coin. They are older than the [[Raven Queen]] (several thousand years old at least) and have knowledge of her predecessor, and are more powerful than the typical warlock patron. The mannerisms of Ikol are extremely unsettling. "Far older and stranger than you could know."
+# Appearances
+- [[2026-06-20]]: First meeting with the group. Made friends with [[Ondo Edafoss]], had a tense conversation with [[Leif Vornsen]], and intimidated [[Corvel]].

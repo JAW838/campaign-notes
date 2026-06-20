@@ -1,2 +1,3 @@
 - Sells magic items.
 - Regularly commits mail fraud.
+- Owned [[Ikol]]'s coin before it came to [[Leon Redbrand|Leon]], and paid him to take the coin from him.

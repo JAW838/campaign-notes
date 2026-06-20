@@ -4,5 +4,6 @@
 - Immune to chlamydia because he possesses koala DNA.
 - Has a magic item that gives him 15ft true sight.
 - [[Ondo Edafoss]]'s arch-nemesis and wants badly to kill him.
+- Has stolen 
 # Events
 - [[2025-09-20]]: Was caught and thwarted by the [[Roving Seven]] while attempting to steal tech "prototypes" from the [[Tech Hunters]]'s base in the [[Batel#The Big Tower|The Big Tower]]. He controlled the modified halflings being experimented on while in combat but did not escape with any.

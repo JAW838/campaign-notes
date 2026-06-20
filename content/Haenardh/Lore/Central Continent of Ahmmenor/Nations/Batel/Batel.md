@@ -29,7 +29,7 @@ Regardless of the exact fate of researchers, [[The Shattering]] left the Eye uni
 #### The Tech Hunters
 ~10 years ago, the Eye was adopted by the [[Tech Hunters]] as their primary base of operations and as a research station. Accessing the observatory from the ground is dangerous, so the group has teleportation circles inside, as well as delivers large cargo via flying vehicle. They placed large numbers of fiends at the base of the mountain as protection, although these forces ultimately failed to prevent the [[Seige on The Big Tower]]. 
 #### Mike O'Flora
-During the [[Seige on The Big Tower]], the [[Roving Seven]] conquered the occupying [[Tech Hunters]], saving [[Diabel Songlark]] and [[Corvel#Threadcleaver|Threadcleaver]]. When the fighting had ended [[Mike O'Flora]] stayed behind, deploying his plant powers to transform the building into a tree-like home, complete with large vines, flowers and leaves.
+During the [[Seige on The Big Tower]], the [[Roving Seven]] conquered the occupying [[Tech Hunters]], saving [[Leif Vornsen]] and [[Corvel#Threadcleaver|Threadcleaver]]. When the fighting had ended [[Mike O'Flora]] stayed behind, deploying his plant powers to transform the building into a tree-like home, complete with large vines, flowers and leaves.
 ### Layout
 #### Upper Levels
 The top floor contains two main rooms: an observation room where measurements were taken, and a meeting room. The meeting room is connected to a staircase leading to the floor below, which is dominated by a large circular chamber with a balcony. Laid into the centre of the chamber is an elevator whose shaft descends far into the depths, eventually reaching the Lower Levels.

@@ -3,7 +3,7 @@
 - Wanted to follow in his footsteps but was somehow cursed and was discharged.
 - When he loses control, his eyes become dark and he is wreathed in flames, dealing extra fire damage.
 # The Curse
-Was somehow afflicted by a curse during his time in the military and was discharged as a result. The curse is getting progressively worse as time goes on and he has lost control of it on a couple occasions.
+Was somehow afflicted by a curse during his time in the military and was discharged as a result. The curse is getting progressively worse as time goes on and he has lost control of it on a couple occasions. The curse is named Vulgrimm and speaks to Leon, and also doesn't like him very much. 
 # Family
 A family tradition is to join and serve with the [[Blood Hunters]], much like real-world military families. Has various unnamed cousins and uncles.
 ## Cousin Ayla

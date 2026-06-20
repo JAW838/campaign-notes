@@ -4,7 +4,7 @@
 - interest in plants/poison + runes on arms for blood magic (makes him an alchemist)
 - interested in magical research
 - communicated with [[Paraceleus]]
-- generally cooperative except that one time where he sold out [[Diabel Songlark]]'s location to [[Paraceleus]] for pieces of their research
+- generally cooperative except that one time where he sold out [[Leif Vornsen]]'s location to [[Paraceleus]] for pieces of their research
 - was a prisoner of war for a month-ish in the same prison as [[Corvel]] and [[Leon Redbrand]]'s brother
 - knew the [[Tech Hunters]] through [[Paraceleus]]
 - has runes on him that burn and make his magic stronger

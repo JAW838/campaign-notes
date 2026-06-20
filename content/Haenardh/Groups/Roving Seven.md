@@ -1,7 +1,7 @@
 # Characters
 ## Current Members
 - [[Corvel]]
-- [[Diabel Songlark]]
+- [[Leif Vornsen]]
 - [[Leon Redbrand]]
 - [[Leone]]
 - [[Ondo Edafoss]]

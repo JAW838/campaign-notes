@@ -47,7 +47,7 @@ Spending too much time in the catacombs can have adverse affects on a creature (
 6. The creature is pushed into the ethereal plane and trapped in the catacombs, effectively killing them.
 ## The Big Hole
 **_AKA The Adendian Crater_**  
-A massive canyon of fear and oblivion where the city state of Adendia once stood before it mysteriously disappeared at the start of [[The Shattering]]. This city was once known as the City of Brass.
+A massive canyon of fear and oblivion where the city state of Adendia once stood before it mysteriously disappeared at the start of [[The Shattering]]. This Ohio-sized city was once known as the City of Brass.
 Adendia had a sister city called the [[The Scarlet Sands#Sunken City|Wheel of Iron]] which crashed during [[The Shattering]]. Another city also existed called the Wheel of Gold but little is known about it.
 The hole leads to the negative energy plane.
 It is surrounded by a series of pillars covered in inscriptions creating a barrier that prevents anything from coming out of the Hole. The barrier is permeable the other way, although passing through causes serious injury.

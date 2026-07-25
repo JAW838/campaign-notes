@@ -1,4 +1,4 @@
-Ruler: [[President Les McEuen]] ¯\_(ಠ_ಠ)_/¯  
+Ruler: [[President Les McEuen]] ¯\\_(ಠ_ಠ)_/¯  
 They elected him as a bit & turns out he’s really great at this stuff, been in office ever since
 
 Provides free healthcare and dental to residents. Big technological power and inhabited primarily by elves pre-[[The Shattering]].

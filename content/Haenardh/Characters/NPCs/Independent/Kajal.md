@@ -4,6 +4,13 @@
 - Immune to chlamydia because he possesses koala DNA.
 - Has a magic item that gives him 15ft true sight.
 - [[Ondo Edafoss]]'s arch-nemesis and wants badly to kill him.
-- Has stolen 
+- Has stolen [[Gestalt]]'s hat.
 # Events
 - [[2025-09-20]]: Was caught and thwarted by the [[Roving Seven]] while attempting to steal tech "prototypes" from the [[Tech Hunters]]'s base in the [[Batel#The Big Tower|The Big Tower]]. He controlled the modified halflings being experimented on while in combat but did not escape with any.
+- [[2026-08-01]]: Bursts through a wall to steal several things during the [[Roving Seven]]'s fight against [[Gestalt]]. He escapes in the Kajal-Copter
+# Allies
+He has two allies, Bobo the Bonobo and Maurice the Orangatang.
+# Kajal-Copter
+
+what
+![[kajal_copter.png]]

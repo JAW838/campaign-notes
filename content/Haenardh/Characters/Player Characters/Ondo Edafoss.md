@@ -12,6 +12,7 @@
 - Possesses some kind of wizard education and has exquisite penmanship in non-Common.
 - Extremely weak to propaganda - once tried to enlist in a country he didn't have citizenship in.
 - Reading Sun Tsands - The Art of War and Crafts
+- Regularly hallucinates platypus.
 # Signature Weapon
 His signature staff was forged from Star Sand by a skilled tradesman from his home country.
 # Vision Quest

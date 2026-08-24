@@ -1,0 +1,7 @@
+# History
+- [[Gideon McEiben]] takes the Talisman to a bar along with his friends after finding it, intent on a night of celebration.
+- After getting a bit rowdy, they make some comments that rub a nearby [[Leif Vornsen]] the wrong way. He becomes rather passionate and a fight breaks out, resulting in Gideon's disfigurement and the death of several of his companions. Leif accidentally takes the Talisman during his retreat from the scene.
+- Leif consults with Prof. Penn Scratch who advises him to travel north to the [[Valorya#Circle of Change|Circle of Change]]. After arriving, they use magic to remake Leif's appearance and take the Talisman from him for safekeeping. 
+- Gideon uses his political power to conduct a large-scale search for the Talisman. Leif, fearful the search parties are looking for him, leaves the village and spends the next 7-8 years wandering the countryside and avoiding Gideon's search parties.
+- The [[Roving Seven]] take Leif as a new member upon their meeting at [[Leore#Capital City (Fools Crossing)|Fools Crossing]], and they travel together until they are found by Gideon who kidnaps Leif and takes him to their base of operations at the [[Batel#The Big Tower|Big Tower]].
+- At the Tower, [[Paraceleus]] sifted through Leif's memories and placed runes on his back. His search revealed to him the location of the Talisman which Leif had left with the druids, and the [[Tech Hunters]] sent [[Paraceleus]] along with some troops to retrieve it. Presumably it was taken to the [[Flying Cities#Angruin|Wheel of Iron]].

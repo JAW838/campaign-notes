@@ -3,3 +3,4 @@
 - Is doing reckless experiments in [[Batel#The Big Tower|The Big Tower]], fusing halflings with magical technology with the goal of creating a helmet with the power to control the fused creatures.
 - Incredibly creepy
 - Platypus appreciator
+- Killed [[2026-08-01]] by [[Leon Redbrand]].

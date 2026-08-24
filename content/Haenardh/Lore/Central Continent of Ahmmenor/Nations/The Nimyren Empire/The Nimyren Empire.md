@@ -7,7 +7,7 @@ Sometime in the last decade, the nation that previously inhabited the lands of [
 The Empire is home to five provinces.
 1.  [[Gulfen]], sharing its northern border with [[Lufen]], home of the [[Gulfen#Elven Kings of Gulfen|Elven Kings of Gulfen]] and the [[Gulfen#The Alabaster Throne|Alabaster Throne]].
 2. The northern province of [[Lufen]], home to the [[Lufen#The 5 Kings of Lufen|5 Kings of Lufen]] and separated from [[The North]] by [[Lufen#The Wall|The Wall]].
-3. Hugging the southeast corner of the Empire is [[Sorabor]], recently conquered during the [[The World#The Sorabor Conflict|The Sorabor Conflict]].
+3. Hugging the southwestern corner of the Empire is [[Sorabor]], recently conquered during the [[The World#The Sorabor Conflict|The Sorabor Conflict]].
 4. [[The Cindered Scar]], a nearly uninhabited section of land devastated by a powerful magical artifact many centuries ago.
 5. Lying between [[Gulfen]] and [[Sorabor]], [[Windsor]] was formed by the remaining humans after the [[The Nimyren War|Nimyren War]].
 

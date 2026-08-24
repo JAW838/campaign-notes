@@ -11,6 +11,7 @@
 - Teds must be named, like an honorary title.
 - He is on a "Tedspedition".
 - Went to Ted School.
+- At max effort can exert one Ted of force. One Ted is 6 NewTeds.
 # Ted Poems
 1. a ted is like the blue sky of an auburn day,
    mystical a scerene with a hate for the fey
@@ -39,6 +40,7 @@ Presumably a list of useful sayings passed through the Ted line.
 - Went to art school.
 ### Uncle
 - Previously Uncle Teddy (lost his name to the fey).
+- Invented the first automobile which made one Ted of power.
 ### Uncle Tedrick
 - The first chiropractor
 ## Father's Side

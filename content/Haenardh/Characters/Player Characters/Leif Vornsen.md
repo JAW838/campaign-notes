@@ -2,17 +2,13 @@
 - Majored in Arts, minored in Business.
 - Made a deal with [[Ikol]]: Leif would give [[Ikol]] a favour in exchange for him leaving the party alone.
 # Backstory
-Back in the day he was in a movement against the treatment of kobolds, goblins, and other disenfranchised people. did rallies n stuff (activism). [[Gideon McEiben]] approached him with a group while Leif was drunk in a tavern and badgered him, and generally was an asshole (including slurs). Leif became angry attacked him with acid claws and essentially melted his face. This sparked a bar fight, during which Leif killed several people. Police searched for him and he escaped the city with the help of Prof. Penn Scratch. He ran to a druid camp where they changed his appearance for a time, which was where he was found by the [[Roving Seven]].
+Back in the day he was in a movement against the treatment of kobolds, goblins, and other disenfranchised people. did rallies n stuff (activism). [[Gideon McEiben]] approached him with a group while Leif was drunk in a tavern and badgered him, and generally was an asshole (including slurs). Leif became angry attacked him with acid claws and essentially melted his face. This sparked a bar fight, during which Leif killed several people. Police searched for him and he escaped the city with the help of Prof. Penn Scratch. He ran to a druid camp where they used their mutation magic to change his appearance. After staying with them a few months, he left the camp fearing he would be discovered by search parties sweeping the forest. He roamed [[Valorya]] for 7-8 years, his appearance slowly reverting to his natural shape, before encountering the [[Roving Seven]] at [[Leore#Capital City (Fools Crossing)|Fools Crossing]]. For the purposes of these notes, he travels with the Seven until they are attacked by the [[Tech Hunters]] and he is kidnapped, taken to the [[Batel#The Big Tower|Big Tower]], and tortured.
 # Events
 - Captured by [[Paraceleus]] while doing battle with him.
 - Was held captive by [[Tech Hunters]] and was tortured by them.
 - [2025-11-15]: After the [[Roving Seven]] fought their way to the top of the [[Batel#The Big Tower|The Big Tower]], the remnants of the [[Tech Hunters]] offer Diabel in exchange for letting them go. The party accepts the deal. Diabel is extremely injured, with many open wounds and runes carved into his back. His wings are mutilated and mangled almost beyond recognition. Bits of flesh and muscle hang from their bases and the rest is gone.
 - Real name Leif Vornsen, heir to the noble house of Vornsen. The Vornsens were typical textile merchants until [[The Shattering]], when they gained popularity and became nobility. In the last 8 years his family has been struggling. After Leif disappeared Podrick went looking for him and also disappeared.
+# Honor's Last Stand
+This [[Artifacts|Artifact]] is a powerful shield crafted by Platinum Dragon Bahamut. Its powers include protecting its user from being knocked down, protecting allies from damage, and a unique shove attack.
 # Runes
-mix of celestial and infernal (very ancient magic). they are large and are likely quite powerful and very painful. these runes are fueled by pain and likely used during the shattering. the rune has not been activated and what will activate it is not known
-- could be remotely activated
-- could need some special condition
-- could debilitate
-- could be harmless
-- could instakill
-- could be an off switch for Leif's brain
+mix of celestial and infernal (very ancient magic). they are large and are likely quite powerful and very painful. these runes are fueled by pain and likely used during the shattering. the rune has not been activated and what will activate it is not known. The leading theory on their function is that they are a way for the [[Tech Hunters]] to remotely torture him.

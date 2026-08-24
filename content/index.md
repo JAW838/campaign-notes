@@ -6,10 +6,10 @@ title: Home
 This is the home of our campaign notes, built with [Quartz](https://quartz.jzhao.xyz/).
 ## Haenardh
 > _“Challenging pregnant god since 1977.”_
-- Explore the **[[The World]]** for fun lore. **(UPDATED WITH NEW TIMELINE)**
+- Explore the **[[The World]]** for fun lore.
 - Take a look at **[[Tech Hunters]]** to see what we're up against.
-- Check out **[[The Hunters Become the Prey]]** to catch up on the current arc.
-- Browse the latest **[[2026-08-01|Session Notes]]** for a detailed summary of the last session.
+- Check out **[[The Fate of Angruin]]** to catch up on the current arc.
+- Browse the latest **[[2026-08-22|Session Notes]]** for a detailed summary of the last session.
 ---
 
 ## Monster Mash

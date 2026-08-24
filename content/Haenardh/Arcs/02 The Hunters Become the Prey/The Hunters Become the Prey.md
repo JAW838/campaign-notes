@@ -1,0 +1,11 @@
+# Before the Hunt
+## The Hunters Siege the Tower
+The [[Roving Seven]] participated in the [[Siege on The Big Tower]], resulting in the expulsion of the [[Tech Hunters]] from the [[Batel#The Big Tower|The Big Tower]]. After this, they travel to [[The Nimyren Empire#Narmor|Narmor]] to negotiate a contract with the Empire to hunt down the remaining Hunters and retrieve their research.
+## Intermission On the Islands of Murder
+The Seven are [[On Trial At Murder]], and Reen and the others go on a quest to kill Boreas and mend her relationship with the [[Blood Hunters]].
+# The Hunt Begins
+- [[2026-02-07]]: [[Roving Seven]] leave [[The Nimyren Empire#Narmor|Narmor]] for [[The Scarlet Sands]] and begin their journey across the desert. This session, along with [[2026-02-28]], deal with [[Ondo Edafoss|Ondo]]'s arc while they travel to the Hunter base.
+-  [[2026-03-14]]: Arriving at the [[Tech Hunters]] base, they discover they are using the ancient city of [[The Scarlet Sands#Angruin|Angruin]] as a base of operations and repairing it so it can fly again. During their stealthy investigation, they discover their enemies [[Theofrastus Bombastus]], [[Paraceleus]], [[Gestalt]], and [[Dee]] are all in the city. But they are discovered, and a motorcycle chase ensues as the party members attempt to escape. After successfully evading their pursuers, the party regroups in a nearby cave and concoct a plan to destroy the massive Warforged Colossus guarding the city, infiltrate it, and kill the leaders of the Hunters.
+- [[2026-03-28]]: According to their plan, they excavate a large area to trap the Warforged Colossus in. They use a sandstorm to lure it towards the pit, where it falls in and the board it. The plan called for commandeering the mech but this proves impossible, so instead they scuttle it, finding several emergency motorcycles stored in the abdomen of the mech and riding out of the mech just as it detonates behind them. At the same time [[The Scarlet Sands#Angruin|Angruin]] begins to rise to the sky for the first time since [[The Shattering]], and barely get there with their bikes before it leaves the ground behind.
+# After the Hunt Comes the Fight 
+Now stranded in the sky, the Seven move around the city fighting members of the Hunters in towers and factories in [[The Fate of Angruin]].

@@ -14,12 +14,12 @@
 - Reading Sun Tsands - The Art of War and Crafts
 - Regularly hallucinates platypus.
 # Signature Weapon
-His signature staff was forged from Star Sand by a skilled tradesman from his home country.
+His signature staff was forged from Star Sand by a skilled tradesman from his home country. An hourglass  It can cast Haste and Slow.
 # Vision Quest
 ## Circle of Sand
 Representing Earth, Ondo completed this challenge in his backstory which at this point is known only to him. This is a very dangerous challenge as the death of the participant is not uncommon.
 ## Circle of Change
-Representing Water, this challenge was completed while Ondo was with the [[Roving Seven|Seven]]. During this fight the group fought a monster which adapted to the damage being done to it, forcing them to vary the attacks they used.
+Representing Water, this challenge was completed while Ondo was with the [[Roving Seven|Seven]]. It was proctored by the Circle of Mutation. During this fight the group fought a monster which adapted to the damage being done to it, forcing them to vary the attacks they used.
 ## Circle of Bones
 Representing Fire, the [[The Scarlet Sands#Circle of Bone|Circle of Bone]] is a huge skeleton made of black stone. Their challenge was completed when Ondo, with the help of the [[Roving Seven]] during [[2026-02-28]], defeated a powerful enemy during an underground arena fight.
 ## Unknown Circle of Air

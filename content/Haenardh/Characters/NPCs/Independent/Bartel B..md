@@ -5,4 +5,4 @@
 - Has beret that turns him invisible, sword, and magic paints
 - has wife and three children
 - lives in [[Batel]] with his father.
-- Went to art school.
+- Went to art school. Is a painter/artist.

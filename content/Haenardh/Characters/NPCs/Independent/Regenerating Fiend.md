@@ -1,0 +1,2 @@
+- [[2026-01-03]]: The fiend temporarily allies with the Seven but is swiftly betrayed and destroyed.
+- [[2026-01-31]]: The [[Roving Seven]] are travelling on an airship when they notice it beginning to regenerate. Not wanting to deal with it, they toss it overboard, leaving it in [[Windsor]].

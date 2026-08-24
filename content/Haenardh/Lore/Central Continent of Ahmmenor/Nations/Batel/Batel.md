@@ -3,22 +3,22 @@ They elected him as a bit & turns out he’s really great at this stuff, been in
 
 Provides free healthcare and dental to residents. Big technological power and inhabited primarily by elves pre-[[The Shattering]].
   
-Halfling: Middle Class Politicians  
-Dwarf: Skill Based Matchmaking  
-Goblin: Goblin Style  
-Kobald: Solid Merit  
+Halfling: Middle Class Politicians
+Dwarf: Skill Based Matchmaking
+Goblin: Goblin Style
+Kobald: Solid Merit
 Gnome: Way Too Many Rules
 # The 7 Wonders
 ## The Big School
 The Kobalt Academy, a massive library & center for learning within the realm, originally an Elven ruin before the local Kobolds refurbished it & began to research & teach its secrets again.
 ## The Big Mine
-An ancient dwarven mine, the epitome of “Dug too greedily & too deep” no one knows what happened to its original inhabitants or how deep it really goes  
+An ancient dwarven mine, the epitome of “Dug too greedily & too deep” no one knows what happened to its original inhabitants or how deep it really goes.
 ## The Big Soup
 A massive perpetual stew maintained by the goblins of this land since before the shattering. These goblins have a rivalry with a group of dwarves in [[The Nimyren Empire]].
 ## The Big Tree
 Said to have been grown from a seed of the world tree by the first halflings to settle this land.
 ## The Big Tower
-**_AKA The Eye of Vome_**  
+**_AKA The Eye of Vome_**
 ### History
 At some point in its past, kobolds were imprisoned here, and potentially experimented on.
 #### Before The Shattering
@@ -27,9 +27,9 @@ Built sometime before [[The Shattering]], the Eye of Vome was a celestial resear
 The Eye of Vome was greatly affected by [[The Shattering]]. The building itself was damaged, but something different happened to those inside, at least in the lower levels. During [[2025-09-06]], the [[Roving Seven]] encountered 13 ghostly Elves in the dungeons below the Tower who had been pushed into the ethereal plane by the disaster, destined to reside in those chambers forevermore.
 Regardless of the exact fate of researchers, [[The Shattering]] left the Eye uninhabited and in a state of disrepair, with research equipment strewn about.
 #### The Tech Hunters
-~10 years ago, the Eye was adopted by the [[Tech Hunters]] as their primary base of operations and as a research station. Accessing the observatory from the ground is dangerous, so the group has teleportation circles inside, as well as delivers large cargo via flying vehicle. They placed large numbers of fiends at the base of the mountain as protection, although these forces ultimately failed to prevent the [[Seige on The Big Tower]]. 
+~10 years ago, the Eye was adopted by the [[Tech Hunters]] as their primary base of operations and as a research station. Accessing the observatory from the ground is dangerous, so the group has teleportation circles inside, as well as delivers large cargo via flying vehicle. They placed large numbers of fiends at the base of the mountain as protection, although these forces ultimately failed to prevent the [[Siege on The Big Tower]].
 #### Mike O'Flora
-During the [[Seige on The Big Tower]], the [[Roving Seven]] conquered the occupying [[Tech Hunters]], saving [[Leif Vornsen]] and [[Corvel#Threadcleaver|Threadcleaver]]. When the fighting had ended [[Mike O'Flora]] stayed behind, deploying his plant powers to transform the building into a tree-like home, complete with large vines, flowers and leaves.
+During the [[Siege on The Big Tower]], the [[Roving Seven]] conquered the occupying [[Tech Hunters]], saving [[Leif Vornsen]] and [[Corvel#Threadcleaver|Threadcleaver]]. When the fighting had ended [[Mike O'Flora]] stayed behind, deploying his plant powers to transform the building into a tree-like home, complete with large vines, flowers and leaves.
 ### Layout
 #### Upper Levels
 The top floor contains two main rooms: an observation room where measurements were taken, and a meeting room. The meeting room is connected to a staircase leading to the floor below, which is dominated by a large circular chamber with a balcony. Laid into the centre of the chamber is an elevator whose shaft descends far into the depths, eventually reaching the Lower Levels.

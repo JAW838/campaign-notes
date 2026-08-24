@@ -4,10 +4,11 @@ The group of islands is called Murder. The names of the islands in descending si
 1. Big: Cruelty
 2. Medium: Disdain
 3. Small: Indifference
-# Capital City
-The capital city floats in the sky.
+# Cielis
+The capital city of Cielis floats in the sky. They were shunted into a parallel plane for a bit during [[The Shattering]] and then came back.
+# Circle of Change
+Also called the Druid Grove, the Circle of Change is a group of druids predominantly practicing magic of the Circle of Change.
 # Other Locations and People
-- The Druid Grove. [[Paraceleus]] stole "The Talisman" from a druid living here.
 - The party spent most of their time here flying over it on a sky ship.
 - The smallest island is home to a small group of healers.
 - The largest island is home to monsters used for hunting training. Some monsters are native and others were captured and moved there.

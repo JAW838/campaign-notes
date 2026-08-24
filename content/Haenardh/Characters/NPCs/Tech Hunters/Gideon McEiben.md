@@ -5,3 +5,4 @@
 - Has an unnamed boss.
 - has a big technology breakdown machine
 - does tech shit idk
+- has big political pull in [[Batel]].

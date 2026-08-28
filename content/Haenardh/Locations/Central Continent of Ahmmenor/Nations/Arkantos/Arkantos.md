@@ -13,4 +13,4 @@ Since the death of the white dragon and its rider, the Fangs have been operating
 - green ridden by witch (deceased [[2026-02-07]])
 - black has a vendetta against [[Roving Seven]]. participated in the assassination that started the [[The Nimyren Empire-Arkantos War]]
 - red ridden by dragonborn with fiendish heritage. rumored to be a worshipper of tiamat. dragon attacked the prison and blew up half the tower during [[The Prison Break]].
-![[image2.png]]
+![[arkantos.png]]

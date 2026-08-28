@@ -38,4 +38,4 @@ The Analytical Archive was originally constructed 800 years before Angruin lifte
 This factory is used to mass produce something. Power is provided by the generation stations around the city.
 # Circle of Bone
 A camp in the desert, built in the towering blackstone skeleton of an ancient being.
-![[Haenardh/Lore/Central Continent of Ahmmenor/Notable Areas/image.png]]
+![[scarlet_sands.png]]

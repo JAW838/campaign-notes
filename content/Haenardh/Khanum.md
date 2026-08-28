@@ -1,1 +1,2 @@
 A location where the [[Tech Hunters]] performed archaeological research ~100 years ago.
+Was the holy city for the god that preceeded the raven queen. they did not appreciate when she took over. obsessed with trying to bring their god back. Khanum means "forgotten" specifically in reference to the memories of a dead person. in [[Drisalygg]]. prounounced kan-oom.

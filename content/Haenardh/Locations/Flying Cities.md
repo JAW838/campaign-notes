@@ -1,0 +1,54 @@
+---
+tags:
+  - favourites
+---
+For thousands of years, magic has held up pieces of the Earth and allowed the people living on them to live their lives among the clouds. These flying cities varied widely in their size, population, technology, and other factors, rendering each utterly unique. Because magic played a large role in their ability to stay airborne, [[The Shattering]]'s effect on magic across the Material plane was a death sentence for all but a select few. Four cities are known today in some capacity, while others certainly existed but have been lost to time.
+# History
+The first flying cities were vanity projects by the world's most powerful archmages. They were relatively small and difficult to maintain, but through the weaknesses brewed unbridled potential: the ability to move massive amounts of people and goods anywhere. New, powerful technology was designed and the number of cities grew rapidly, with the total number of cities built estimated at ~100. Flying city design ultimately peaked with the [[Flying Cities#The Sister Cities|Three Sisters]]: [[Flying Cities#Adendia|Adendia]], [[Flying Cities#Angruin|Angruin]], and [[Flying Cities#Atelier|Atelier]], flying cities that redefined the limits of size, sustainability, and creativity of flying city design. Their success promised a new age golden age of life among the clouds, but these dreams were cut short by [[The Shattering]], whose decimation of magic spelled a death sentence for the cities using that very magic to stay afloat. Of the roughly two dozen flying cities active before the catastrophe, only [[Flying Cities#Cielis|Cielis]] survived unscathed. Several crashed into the western continent of [[Drisalygg]], more landed in the ocean, and the rest disappeared under varying circumstances. Despite magic having regained its strength, no more flying cities have been constructed, and the promise of a life among the clouds lies dead with those who believed it most.
+# Construction
+Even the construction of the cities was not uniform. Early flying cities were the result of archmages using 10th level spells lost to time to sever and invert the peaks of mountaintops, however this practice proved unsustainable. Later flying cities were constructed primarily in one of two ways:
+1. the ground of the city would be lifted and the city built on top, or
+2. the city built on the ground and the ground lifted later.
+Of these two methods, the former was more common; constructing the foundation first proved simpler and more reliable than lifting a pre-existing town. Whether the city could make landfall after takeoff was unrelated to the construction method used, and most flying cities could not land, with [[Flying Cities#Adendia|Adendia]] being a notable exception.
+# Technology
+As the size of the cities grew, a small handful of mages quickly expanded to a small army; the floating islands were getting too big, and more powerful and efficient sources of energy were needed. Luckily, a few options were available:
+## Mythallar
+The brunt of the lifting is done by a central Mythallar, a large ball of energy surrounded by floating concentric rings. Its purpose is to autonomously hold concentration on a large number of spells simultaneously, allowing mages to cast levitation spells on the island, have the Mythallar hold concentration, and go about their day unimpeded. These objects could hold concentration on so many spells at once that no record exists of an island using more than one regardless of its size.
+## Leywright
+While the Mythallar's primary task was to keep the city afloat, the Leywright was key for moving it around. They used energy harvested from ley lines to traverse the world, like a car on a highway. They never strayed far from these lines, as without them they would be floating but unable to move. A city's Leywright produced a small amount of lifting force but it paled in comparison to that of the Mythallar. Special Leywrights existed, most notably the [[Flying Cities#Astral Leywright|Astral Leywright]] used by [[Flying Cities#Cielis|Cielis]].
+# Economy
+Flying cities were commonly hubs of trade and innovation. Their ability to move immense amounts of goods from place to place made them invaluable to the economy, and their status as prestigious, futuristic environments attracted the best, brightest, and most wealthy of society, spurring innovation on a large scale. [[Flying Cities#Adendia|Adendia]] was particularly known for its pursuit of knowledge and creativity.
+# Public Perception
+Because the high concentration of wealthy individuals drove up prices on these islands substantially, a place in the city stayed comfortably outside the peasants' reach. A place in these cities meant a place to literally look down on the poor and flaunt one's wealth, so the people on these islands were not very well liked. However, the cities themselves were large and living on one meant money and power, which made getting on one a high priority for many of the world's poor.
+# The Three Sisters
+1000 years before [[The Shattering]], the Three Sisters were created as something of a pissing contest between their creators and represented the peak of flying city technology. Using highly unusual and experimental methods to keep their cities afloat, these cities promised a new era of flying city design which would ultimately never come. Each city was given an Elvish name which it was most known by, and their "Wheel of" nicknames were the translations of those names to Common.
+## Adendia
+Adendia, the Wheel of Brass, was originally a major trade hub in what is now central [[Batel]]. Despite already being an established settlement, the decision was made to transform the city into a floating island in pursuit of more trade opportunities. The design was created in collaboration with [[The Tinkerer]], a being known for collecting curiosities and creating useful inventions. The resulting flying city was both a converted pre-existing city and able to land, making it unique even without the eccentric people living on it.
+### Adendian Propulsion
+By the Tinkerer's direction, unique technologies lost to time were used to lift the city, including a system which rendered a Leywright unnecessary. A rumour persists that the Deck of Many Things was involved although how it was used is unclear.
+### Adendian Culture
+Inspired by the Tinkerer, Adendians were a curious and deeply experimental people, and the city was full of craftsmen and strange things. They frequently created new technologies, most of which failed spectacularly. But they recognised that each failure brought them one step closer to success, and this way of thinking made them stubborn and resilient.
+### The Adendian Crater
+On the fateful day of [[The Shattering]], Adendia had returned to its home in [[Batel]] which would be its final resting place. The city disappeared during the cataclysm, leaving an Ohio-sized canyon of fear and oblivion where the city state once stood, now known as the [[Batel#The Big Hole|Big Hole]]. Its true fate is not known for certain.
+## Angruin
+The result of a collaboration with [[The Architect]], Angruin, also called the Wheel of Iron, was the only Sister city whose fate would be known for certain after [[The Shattering]]. It was shaped like a 9-tooth gear and was one of the cities converted into a flying city. Its [[The Scarlet Sands#Angruin|ruins in the Scarlet Sands]] would be explored by the [[Roving Seven]] during [[The Fate of Angruin]], where it would fly once more under the command of the [[Tech Hunters]].
+### Innovations
+Angruin had several advanced facilities which put it a step above even the other Sisters. These include its power generation, archives, and central forge.
+#### Generator Stations
+On each of the 9 teeth of Angruin's gears was a Hellfire power generation station. These huge buildings - the size of a nuclear power station - worked together to power not only Angruin's propulsion systems but the Aetherforge as well. These stations functioned by channeling Hellfire from Hell to boil water - in effect these stations were geothermal plants. This design subverted the need for thousands of spellcasters to keep the city afloat, and its reliance on non-magical propulsion is likely the primary reason the city and all on it were not immediately killed during [[The Shattering]]. Removing the need for so many people also simplified maintenance and operation, adding a significant amount of automation to the flying system and allowing it to be operated by a relatively small crew.
+#### Analytical Archive
+Housed in a building reminiscent of a large library, the Archive was a machine created for storage and analysis of data, record keeping, and more. Of the several Analytical devices littered around the city, the Archive served as a central hub, containing the most information.
+##### Archive History
+The Analytical Archive was originally constructed 800 years before Angruin lifted off. It functioned for those 800 years and survived the city's descent. Between then and the city's abandonment ~30 years later, various updates and upgrades were applied to it.
+#### Aetherforge
+This factory is used to mass produce something. Power is provided by the generation stations around the city.
+### History
+#### The Shattering
+Angruin briefly stayed airborne after [[The Shattering]], but was quickly landed due to strain on flight mechanics. The landing caused minimal damage to the city and its flight apparatus. It was intentionally landed in the Scarlet Sands to soften the landing for its inhabitants.
+#### Abandonment
+The city remained inhabited for several decades after the cataclysm. There was an attempt to restore the city to its former glory and roam the skies once more but this effort failed due to lack of population. After ~30 years of being stranded in the desert, the city was completely abandoned. Specifics about its abandonment remain a mystery, however a being which petrified dozens of citizens into metal statues may have been involved.
+#### Tech Hunters
+## Atelier
+Little is known about the third Sister Atelier, the Wheel of Gold. Like the other cities its design was a collaboration with a notable figure, this time [[The Builder]], but the specifics of its uniqueness are unknown. Also unknown is its fate, although its last known position was heading to [[Feyrndel]] crossing the [[Sea of Storm]].
+# Cielis
+The capital city of [[Valorya]]. Just before [[The Shattering]], they used their special Leywright, the Astral Leywright, to redirect a ley line into a parallel plane, thus moving the city into that plane and surviving the apocalypse, return only when it was safe to do so. How they knew the shattering was coming is unknown.

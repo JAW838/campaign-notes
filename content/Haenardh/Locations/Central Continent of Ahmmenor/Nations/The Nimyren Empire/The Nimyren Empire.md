@@ -15,4 +15,4 @@ The Empire is home to five provinces.
 The capitol city of the Nimyren Empire is Narmor. It features a permanent [[Magic Marty]]'s location.
 # Demographics
 The Empire is inhabited primarily by Dwarves, Elves and Humans.
-![[image3.png]]![[nimyren empire flag.png]]
+![[nimyren_empire.png]]![[nimyren empire flag.png]]

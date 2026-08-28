@@ -9,5 +9,7 @@ As of present, there have been four Kings of Gulfen:
 - [[Levitas|King Levitas]], the Fourth Elven King. The current ruler and responsible for Gulfen's joining of [[The Nimyren Empire]]. He has successfully navigated several bloody conflicts, though nothing as extreme as his predecessors.
 ## The Alabaster Throne
 The throne occupied by the King of Gulfen. It is believed to have been cursed by the god that was responsible for the death of the [[Erlking]]: the reign of each King will be shorter than the last. This curse played a large role in the actions of [[Belodrin|Belodrin the Baned]].
-# Capital City (Valkor)
-Home to much of the Provinces Nobility as well as the Illuminate Academy, & the lands seat of power A palace known as the Ivory Tower.
+# Narmor
+This city is a major trade hub and the capital city of [[The Nimyren Empire]].
+# Valkor
+Capital city of Gulfen, it is home to much of the Provinces Nobility as well as the Illuminate Academy, & the lands seat of power A palace known as the Ivory Tower.

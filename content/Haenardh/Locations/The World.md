@@ -1,3 +1,7 @@
+---
+tags:
+  - favourites
+---
 The World is covered by three main continents: the eastern continent of [[Feyrndel]], the central continent of [[Ahmmenor]], and the western continent of [[Drisalygg]] (not pictured). They have weathered the storm of time, and are inhabited by some of the most impressive and resilient beings in all the planes.
 # Timeline
 Due to the influence of the [[Gulfen#Elven Kings of Gulfen|Elven Kings of Gulfen]], the various Ages are marked by their rule. Additionally, [[The Nimyren Empire]] uses its own year system: BNU (Before Nimyren Unification) and NU (Nimyren Unification).
@@ -32,14 +36,14 @@ During the latter years of his reign, he pushed extensively for reckless experim
 ### The Shattering
 Nobody one knows what tipped the scales on that fateful day. Perhaps it was punishment from the gods, a foolish mage attempted a magic too outlandishly vast for the weave to strain, or the pressure of all the magics of the world had simply become too much. Whatever the reason, on one fateful day the world broke, and magic itself lay shattered across the world in a cataclysm hither to undreamt of.
 Much of the world suffered as their magics had either been sundered, erased, or in the worst cases tainted by an apparent rot within the weave of magic itself. Others sealed themselves away with what little stable magic remained, including the now feeble [[Belodrin|King Belodrin]] and his subjects, although the King would succumb to illness at some point during this event.
-Specific dates are hard to define during [[The Shattering]] as things as intrinsic as time itself were thrown off their rhythm, however our best guess would have no less than 1000 years from its beginning to the emergence of [[Valcore]] once again at the end of [[The Inquisition|The Inquisition's]] last crusade in [[Ahmmenor]].
+Specific dates are hard to define during [[The Shattering]] as things as intrinsic as time itself were thrown off their rhythm, however our best guess would have no less than 1000 years from its beginning to the emergence of [[Gulfen#Valkor|Valkor]] once again at the end of [[The Inquisition|The Inquisition's]] last crusade in [[Ahmmenor]].
 ## Rein of the Fourth Elf King (17,500-Present)
 ---
 The [[Levitas|Fourth Elf King Levitas]] gained control of [[Gulfen]] after [[The Shattering]]. He brought his Elves out of hiding when the chaos subsided and [[The Inquisition]] had fallen apart, although peace with the new Human occupants was short-lived, and the tension resulted in [[The Nimyren War]]. This war was brought to a close when [[Emperor Ballas]] united the warring countries into what is now [[The Nimyren Empire]].
 ### The Inquisition (528 BNU-415 BNU)
 [[The Shattering]] left magic crippled for a long time. When it began to regain its former strength, many were concerned that magic users would push the weave too far, causing a second disaster, and they formed [[The Inquisition]] to stop this. They surged across [[Ahmmenor]], destroying any magical knowledge they found along the way. In this, they were successful, and little magical knowledge from before this time remains.
 During this time, [[Arkantos]] was founded as a refuge for those persecuted by the crusade.
-### Valcore and the Others Emerge (415 BNU)
+### Valkor and the Others Emerge (415 BNU)
 The Kingdom of Elves and Kingdom of Dwarves emerged during this time, having sequestered themselves away to protect against the destruction of [[The Shattering]]. They were shocked to find their lands had been inhabited by Humans, and tensions ran high as the Kingdoms searched for a place to call home.
 ### The Nimyren War (400 BNU-0 NU)
 Tensions reached their breaking point, and [[The Nimyren War]] broke out between the Humans and the Kingdoms of Dwarves and Elves. This long and bloody conflict was brought to an end when a then-unknown figure emerged, uniting the warring factions and ending the fighting. He would come to be known as [[Emperor Ballas]].
@@ -50,4 +54,4 @@ Sometime in the last decade, the nation occupying what is now [[Sorabor]] attack
 ### The Nimyren-Arkantos War (?-Present)
 The ongoing war between [[The Nimyren Empire]] and [[Arkantos]], started when an [[Arkantos]] spy was discovered attempting to assassinate a general of the [[The Nimyren Empire|Empire]].
 ### Present (246 NU)
-![[Haenardh/Lore/Central Continent of Ahmmenor/Notable Areas/image.png]]
+![[scarlet_sands.png]]

@@ -1,0 +1,3 @@
+- massive sea to south of ahmmenor
+- can cross it to get to the top of the world
+- islands and stuff in it, hard to get to

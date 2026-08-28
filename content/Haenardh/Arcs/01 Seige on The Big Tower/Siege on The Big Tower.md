@@ -1,3 +1,7 @@
+---
+tags:
+  - "#arc-summary"
+---
 - [[2025-08-09]]: The Seven inspect the [[Batel#The Big Hole|Big Hole]] and arrive in a town near the Tower. They spend a while gathering information about the observatory and formulating a plan, as well as gathering useful magic items.
 - [[2025-08-30]]: The [[Roving Seven]] stealthily approached the tower on their [[Roving Seven#Slepneres|Slepneres]] but they were unable to avoid conflict with various fiends surrounding the mountain.
 - [[2025-09-06]]: The party discovered a crack in the mountainside and entered, finding the tower's catacombs on the other side. They navigated various puzzles below the tower, encountering various beings such as elven ghosts and a whisp boss.

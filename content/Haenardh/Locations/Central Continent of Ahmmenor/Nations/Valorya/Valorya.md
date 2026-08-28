@@ -5,7 +5,7 @@ The group of islands is called Murder. The names of the islands in descending si
 2. Medium: Disdain
 3. Small: Indifference
 # Cielis
-The capital city of Cielis floats in the sky. They were shunted into a parallel plane for a bit during [[The Shattering]] and then came back.
+The capital city of [[Flying Cities#Cielis|Cielis]] floats in the sky as the only remaining [[Flying Cities|Flying City]].
 # Circle of Change
 Also called the Druid Grove, the Circle of Change is a group of druids predominantly practicing magic of the Circle of Change.
 # Other Locations and People

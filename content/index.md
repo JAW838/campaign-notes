@@ -10,8 +10,12 @@ This is the home of our campaign notes, built with [Quartz](https://quartz.jzhao
 - Take a look at **[[Tech Hunters]]** to see what we're up against.
 - Check out **[[The Fate of Angruin]]** to catch up on the current arc.
 - Browse the latest **[[2026-08-22|Session Notes]]** for a detailed summary of the last session.
+- Peruse #favourites to find the best pages available.
 ---
 
 ## Monster Mash
 > _“How does the horse have unfinished business?”_
 - Find the second session **[[2025-12-06|here.]]**
+---
+# Note:
+[[The Scarlet Sands]], [[Flying Cities]] and [[ntoes]] are currently unfinished and in the process of being edited.

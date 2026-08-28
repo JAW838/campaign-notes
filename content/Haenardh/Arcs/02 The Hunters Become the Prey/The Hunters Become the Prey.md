@@ -1,3 +1,7 @@
+---
+tags:
+  - "#arc-summary"
+---
 # Before the Hunt
 ## The Hunters Siege the Tower
 The [[Roving Seven]] participated in the [[Siege on The Big Tower]], resulting in the expulsion of the [[Tech Hunters]] from the [[Batel#The Big Tower|The Big Tower]]. After this, they travel to [[The Nimyren Empire#Narmor|Narmor]] to negotiate a contract with the Empire to hunt down the remaining Hunters and retrieve their research.

@@ -8,6 +8,7 @@ Dwarf: Skill Based Matchmaking
 Goblin: Goblin Style
 Kobald: Solid Merit
 Gnome: Way Too Many Rules
+# Kremvh's Tooth
 # The 7 Wonders
 ## The Big School
 The Kobalt Academy, a massive library & center for learning within the realm, originally an Elven ruin before the local Kobolds refurbished it & began to research & teach its secrets again.
@@ -47,13 +48,9 @@ Spending too much time in the catacombs can have adverse affects on a creature (
 6. The creature is pushed into the ethereal plane and trapped in the catacombs, effectively killing them.
 ## The Big Hole
 **_AKA The Adendian Crater_**  
-A massive canyon of fear and oblivion where the city state of Adendia once stood before it mysteriously disappeared at the start of [[The Shattering]]. This Ohio-sized city was once known as the City of Brass.
-Adendia had a sister city called the [[The Scarlet Sands#Sunken City|Wheel of Iron]] which crashed during [[The Shattering]]. Another city also existed called the Wheel of Gold but little is known about it.
-The hole leads to the negative energy plane.
-It is surrounded by a series of pillars covered in inscriptions creating a barrier that prevents anything from coming out of the Hole. The barrier is permeable the other way, although passing through causes serious injury.
-Visited [[2025-08-09]].
+The final resting place of the [[Flying Cities#Adendia|Flying City of Adendia]], this Ohio-sized canyon of fear and oblivion is a hole to the negative energy plane. The Hole can be freely traversed from both sides, and in fact beings from the negative plane enter the material plane regularly. Therefore a series of pillars covered in inscriptions surround the Hole, creating a barrier that contains them and prevents them from causing chaos. The barrier is only one-way, allowing outside being in but keeping inside beings in, as seen in [[2025-08-09]].
 ## The Big "Manhattan"
 **_AKA Thanmatan, the sundered metropolis_**  
 An island off the east coast that was once a sprawling cityscape. It was glassed in an instant as the magical batteries keeping it alive detonated at the start of The Shattering. Many expeditions have been performed to explore the area, and a few decades ago, the [[Tech Hunters]] performed the 16th.
 
-![[image7.png]]
+![[batel.png]]

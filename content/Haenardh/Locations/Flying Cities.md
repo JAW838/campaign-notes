@@ -48,6 +48,7 @@ Angruin briefly stayed airborne after [[The Shattering]], but was quickly landed
 #### Abandonment
 The city remained inhabited for several decades after the cataclysm. There was an attempt to restore the city to its former glory and roam the skies once more but this effort failed due to lack of population. After ~30 years of being stranded in the desert, the city was completely abandoned. Specifics about its abandonment remain a mystery, however a being which petrified dozens of citizens into metal statues may have been involved.
 #### Tech Hunters
+[[Paraceleus]] was instrumental in getting the infernal engines back online.
 ## Atelier
 Little is known about the third Sister Atelier, the Wheel of Gold. Like the other cities its design was a collaboration with a notable figure, this time [[The Builder]], but the specifics of its uniqueness are unknown. Also unknown is its fate, although its last known position was heading to [[Feyrndel]] crossing the [[Sea of Storm]].
 # Cielis

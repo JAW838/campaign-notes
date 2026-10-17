@@ -2,3 +2,4 @@
 - Allied with [[Tech Hunters]].
 - Has pocket bombs among many contraptions/devices.
 - [[Bartel B.]] quietly placed a tracking ring on him, compromising his location.
+- Has fallen from a bride before and has watched others do the same.

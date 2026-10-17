@@ -4,7 +4,7 @@ A group of unknown origin, size, or motive, the Tech Hunters are a group with a 
 ## Pre-Campaign
 Recovered documents reveal that ~100 years ago, the Hunters investigated an unknown location called [[Khanum]]. Additionally, a few decades ago, they performed the 16th expedition to [[Batel#The Big "Manhattan"|The Big "Manhattan"]]. The documents do not reveal the length of these investigations, and any staff manifests are missing, but they are all signed by a representative called "D". Funding for these expeditions was provided by a combination of the [[Batel#The Big School|Kobalt Academy]] and "some government approval board". Large sections of these documents are missing, and additional information is lacking.
 The group also recovered or otherwise acquired lost mid-[[The Shattering|Shattering]] technology from [[Drisalygg]].
-The goals of the Hunters at this time are unknown, however it can be guessed that they were looking for technology or magic to use in their later schemes.
+At some point the Hunters discovered the [[Adendian God]] and decided to resurrect it, a plot handled in [[The Fate of Angruin]]. 
 ## Campaign
 The Tech Hunter's earliest known involvement with the [[Roving Seven]] is when they struck a deal with [[Sylas Blackstone]], in which they would provide pieces of their research to him in exchange for [[Leif Vornsen]]. They were successful in capturing him, and presumably followed through on their deal. Why the Hunters wanted [[Leif Vornsen]] is unknown, as is the nature of the information they exchanged for him.
 ### The Big Tower
@@ -12,7 +12,7 @@ The group has operated out of [[Batel#The Big Tower|The Big Tower]] for ~10 year
 In the catacombs of [[Batel#The Big Tower|The Big Tower]] they were experimenting with fusing control technology into halflings, with a helmet with the power to control the modified halflings. All research was signed by [[Gestalt]]. This technology was stolen by [[Kajal]] during the [[Siege on The Big Tower]].
 The halfings were old experiments, with a new version appearing to be purely technological.
 ### The Sunken City
-After their defeat in the [[Siege on The Big Tower]], they retreated to a secondary location in [[The Scarlet Sands]] near the [[The Scarlet Sands#Sunken City|Sunken City]], their numbers greatly diminished but their command structure intact.
+After their defeat in the [[Siege on The Big Tower]], they retreated to a secondary location in [[The Scarlet Sands]] near the [[The Scarlet Sands#Sunken City|Sunken City]], their numbers greatly diminished but their command structure intact. But they were not safe, and during [[The Fate of Angruin]] the Seven arrived to take them down. This climactic arc saw the fight taken to the sky as the [[Flying Cities#Angruin|Flying City of Angruin]] lifted off once more after being partially restored by the Hunters. 
 ### Current Goals
 At first they experimented with infusing halflings with technology in order to control them, and they have transitioned to building completely technological beings to control.
 # Known Members
